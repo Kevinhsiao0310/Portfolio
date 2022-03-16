@@ -1,0 +1,3000 @@
+seed = 0
+maxMatch_bfs cost 860 us
+maxMatch_dfs cost 33714 us
+seed = 1
+maxMatch_bfs cost 1058 us
+maxMatch_dfs cost 37831 us
+seed = 2
+maxMatch_bfs cost 971 us
+maxMatch_dfs cost 41308 us
+seed = 3
+maxMatch_bfs cost 1085 us
+maxMatch_dfs cost 37191 us
+seed = 4
+maxMatch_bfs cost 1145 us
+maxMatch_dfs cost 36061 us
+seed = 5
+maxMatch_bfs cost 976 us
+maxMatch_dfs cost 53209 us
+seed = 6
+maxMatch_bfs cost 834 us
+maxMatch_dfs cost 30759 us
+seed = 7
+maxMatch_bfs cost 893 us
+maxMatch_dfs cost 33890 us
+seed = 8
+maxMatch_bfs cost 1128 us
+maxMatch_dfs cost 68778 us
+seed = 9
+maxMatch_bfs cost 757 us
+maxMatch_dfs cost 27809 us
+seed = 10
+maxMatch_bfs cost 1809 us
+maxMatch_dfs cost 40287 us
+seed = 11
+maxMatch_bfs cost 968 us
+maxMatch_dfs cost 37174 us
+seed = 12
+maxMatch_bfs cost 1027 us
+maxMatch_dfs cost 61844 us
+seed = 13
+maxMatch_bfs cost 1877 us
+maxMatch_dfs cost 54037 us
+seed = 14
+maxMatch_bfs cost 1348 us
+maxMatch_dfs cost 54182 us
+seed = 15
+maxMatch_bfs cost 909 us
+maxMatch_dfs cost 41075 us
+seed = 16
+maxMatch_bfs cost 2004 us
+maxMatch_dfs cost 57653 us
+seed = 17
+maxMatch_bfs cost 2725 us
+maxMatch_dfs cost 62021 us
+seed = 18
+maxMatch_bfs cost 828 us
+maxMatch_dfs cost 33198 us
+seed = 19
+maxMatch_bfs cost 1201 us
+maxMatch_dfs cost 75651 us
+seed = 20
+maxMatch_bfs cost 1368 us
+maxMatch_dfs cost 1367281 us
+seed = 21
+maxMatch_bfs cost 1162 us
+maxMatch_dfs cost 56884 us
+seed = 22
+maxMatch_bfs cost 1135 us
+maxMatch_dfs cost 54064 us
+seed = 23
+maxMatch_bfs cost 1301 us
+maxMatch_dfs cost 75135 us
+seed = 24
+maxMatch_bfs cost 2778 us
+maxMatch_dfs cost 83401 us
+seed = 25
+maxMatch_bfs cost 1036 us
+maxMatch_dfs cost 60278 us
+seed = 26
+maxMatch_bfs cost 2033 us
+maxMatch_dfs cost 43314 us
+seed = 27
+maxMatch_bfs cost 1348 us
+maxMatch_dfs cost 37101 us
+seed = 28
+maxMatch_bfs cost 1240 us
+maxMatch_dfs cost 66064 us
+seed = 29
+maxMatch_bfs cost 1284 us
+maxMatch_dfs cost 39181 us
+seed = 30
+maxMatch_bfs cost 1686 us
+maxMatch_dfs cost 36356 us
+seed = 31
+maxMatch_bfs cost 1269 us
+maxMatch_dfs cost 209797 us
+seed = 32
+maxMatch_bfs cost 1353 us
+maxMatch_dfs cost 43639 us
+seed = 33
+maxMatch_bfs cost 1267 us
+maxMatch_dfs cost 53539 us
+seed = 34
+maxMatch_bfs cost 1957 us
+maxMatch_dfs cost 47832 us
+seed = 35
+maxMatch_bfs cost 1335 us
+maxMatch_dfs cost 70441 us
+seed = 36
+maxMatch_bfs cost 1445 us
+maxMatch_dfs cost 45011 us
+seed = 37
+maxMatch_bfs cost 968 us
+maxMatch_dfs cost 39173 us
+seed = 38
+maxMatch_bfs cost 1226 us
+maxMatch_dfs cost 34582 us
+seed = 39
+maxMatch_bfs cost 1999 us
+maxMatch_dfs cost 39235 us
+seed = 40
+maxMatch_bfs cost 1848 us
+maxMatch_dfs cost 98371 us
+seed = 41
+maxMatch_bfs cost 1092 us
+maxMatch_dfs cost 62398 us
+seed = 42
+maxMatch_bfs cost 1184 us
+maxMatch_dfs cost 34797 us
+seed = 43
+maxMatch_bfs cost 978 us
+maxMatch_dfs cost 39580 us
+seed = 44
+maxMatch_bfs cost 1085 us
+maxMatch_dfs cost 59926 us
+seed = 45
+maxMatch_bfs cost 2327 us
+maxMatch_dfs cost 37667 us
+seed = 46
+maxMatch_bfs cost 1165 us
+maxMatch_dfs cost 58873 us
+seed = 47
+maxMatch_bfs cost 1435 us
+maxMatch_dfs cost 38774 us
+seed = 48
+maxMatch_bfs cost 1484 us
+maxMatch_dfs cost 49259 us
+seed = 49
+maxMatch_bfs cost 1173 us
+maxMatch_dfs cost 59514 us
+seed = 50
+maxMatch_bfs cost 1980 us
+maxMatch_dfs cost 50689 us
+seed = 51
+maxMatch_bfs cost 1862 us
+maxMatch_dfs cost 44426 us
+seed = 52
+maxMatch_bfs cost 978 us
+maxMatch_dfs cost 51085 us
+seed = 53
+maxMatch_bfs cost 1183 us
+maxMatch_dfs cost 44556 us
+seed = 54
+maxMatch_bfs cost 2433 us
+maxMatch_dfs cost 74751 us
+seed = 55
+maxMatch_bfs cost 1016 us
+maxMatch_dfs cost 138488 us
+seed = 56
+maxMatch_bfs cost 1067 us
+maxMatch_dfs cost 58518 us
+seed = 57
+maxMatch_bfs cost 976 us
+maxMatch_dfs cost 42868 us
+seed = 58
+maxMatch_bfs cost 1562 us
+maxMatch_dfs cost 99801 us
+seed = 59
+maxMatch_bfs cost 1079 us
+maxMatch_dfs cost 43140 us
+seed = 60
+maxMatch_bfs cost 1274 us
+maxMatch_dfs cost 56530 us
+seed = 61
+maxMatch_bfs cost 1345 us
+maxMatch_dfs cost 58416 us
+seed = 62
+maxMatch_bfs cost 1156 us
+maxMatch_dfs cost 40875 us
+seed = 63
+maxMatch_bfs cost 1195 us
+maxMatch_dfs cost 38736 us
+seed = 64
+maxMatch_bfs cost 1163 us
+maxMatch_dfs cost 39659 us
+seed = 65
+maxMatch_bfs cost 1044 us
+maxMatch_dfs cost 50207 us
+seed = 66
+maxMatch_bfs cost 1390 us
+maxMatch_dfs cost 62495 us
+seed = 67
+maxMatch_bfs cost 1445 us
+maxMatch_dfs cost 42623 us
+seed = 68
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 56010 us
+seed = 69
+maxMatch_bfs cost 1925 us
+maxMatch_dfs cost 39180 us
+seed = 70
+maxMatch_bfs cost 1248 us
+maxMatch_dfs cost 56108 us
+seed = 71
+maxMatch_bfs cost 1364 us
+maxMatch_dfs cost 38134 us
+seed = 72
+maxMatch_bfs cost 1534 us
+maxMatch_dfs cost 63077 us
+seed = 73
+maxMatch_bfs cost 1521 us
+maxMatch_dfs cost 42269 us
+seed = 74
+maxMatch_bfs cost 1606 us
+maxMatch_dfs cost 176240 us
+seed = 75
+maxMatch_bfs cost 1137 us
+maxMatch_dfs cost 60155 us
+seed = 76
+maxMatch_bfs cost 1761 us
+maxMatch_dfs cost 36473 us
+seed = 77
+maxMatch_bfs cost 1259 us
+maxMatch_dfs cost 57790 us
+seed = 78
+maxMatch_bfs cost 1200 us
+maxMatch_dfs cost 58823 us
+seed = 79
+maxMatch_bfs cost 2298 us
+maxMatch_dfs cost 69635 us
+seed = 80
+maxMatch_bfs cost 1978 us
+maxMatch_dfs cost 52007 us
+seed = 81
+maxMatch_bfs cost 2563 us
+maxMatch_dfs cost 62095 us
+seed = 82
+maxMatch_bfs cost 1147 us
+maxMatch_dfs cost 52695 us
+seed = 83
+maxMatch_bfs cost 1192 us
+maxMatch_dfs cost 50534 us
+seed = 84
+maxMatch_bfs cost 1450 us
+maxMatch_dfs cost 41070 us
+seed = 85
+maxMatch_bfs cost 1545 us
+maxMatch_dfs cost 41108 us
+seed = 86
+maxMatch_bfs cost 2544 us
+maxMatch_dfs cost 67476 us
+seed = 87
+maxMatch_bfs cost 1671 us
+maxMatch_dfs cost 47697 us
+seed = 88
+maxMatch_bfs cost 2342 us
+maxMatch_dfs cost 81344 us
+seed = 89
+maxMatch_bfs cost 1393 us
+maxMatch_dfs cost 114445 us
+seed = 90
+maxMatch_bfs cost 3435 us
+maxMatch_dfs cost 51668 us
+seed = 91
+maxMatch_bfs cost 1301 us
+maxMatch_dfs cost 42824 us
+seed = 92
+maxMatch_bfs cost 1557 us
+maxMatch_dfs cost 3739716 us
+seed = 93
+maxMatch_bfs cost 2097 us
+maxMatch_dfs cost 1340797 us
+seed = 94
+maxMatch_bfs cost 1594 us
+maxMatch_dfs cost 46852 us
+seed = 95
+maxMatch_bfs cost 1771 us
+maxMatch_dfs cost 73820 us
+seed = 96
+maxMatch_bfs cost 1469 us
+maxMatch_dfs cost 69756 us
+seed = 97
+maxMatch_bfs cost 1408 us
+maxMatch_dfs cost 44472 us
+seed = 98
+maxMatch_bfs cost 2638 us
+maxMatch_dfs cost 142585 us
+seed = 99
+maxMatch_bfs cost 2058 us
+maxMatch_dfs cost 91047 us
+seed = 100
+maxMatch_bfs cost 2031 us
+maxMatch_dfs cost 158589 us
+seed = 101
+maxMatch_bfs cost 2210 us
+maxMatch_dfs cost 54729 us
+seed = 102
+maxMatch_bfs cost 1277 us
+maxMatch_dfs cost 47307 us
+seed = 103
+maxMatch_bfs cost 2202 us
+maxMatch_dfs cost 62619 us
+seed = 104
+maxMatch_bfs cost 1562 us
+maxMatch_dfs cost 183721 us
+seed = 105
+maxMatch_bfs cost 2000 us
+maxMatch_dfs cost 79887 us
+seed = 106
+maxMatch_bfs cost 2331 us
+maxMatch_dfs cost 139609 us
+seed = 107
+maxMatch_bfs cost 2513 us
+maxMatch_dfs cost 121458 us
+seed = 108
+maxMatch_bfs cost 3090 us
+maxMatch_dfs cost 83299 us
+seed = 109
+maxMatch_bfs cost 1365 us
+maxMatch_dfs cost 66342 us
+seed = 110
+maxMatch_bfs cost 2488 us
+maxMatch_dfs cost 89941 us
+seed = 111
+maxMatch_bfs cost 3493 us
+maxMatch_dfs cost 154118 us
+seed = 112
+maxMatch_bfs cost 2352 us
+maxMatch_dfs cost 92349 us
+seed = 113
+maxMatch_bfs cost 1395 us
+maxMatch_dfs cost 98577 us
+seed = 114
+maxMatch_bfs cost 2323 us
+maxMatch_dfs cost 81772 us
+seed = 115
+maxMatch_bfs cost 2792 us
+maxMatch_dfs cost 124949 us
+seed = 116
+maxMatch_bfs cost 5583 us
+maxMatch_dfs cost 109292 us
+seed = 117
+maxMatch_bfs cost 4806 us
+maxMatch_dfs cost 94595 us
+seed = 118
+maxMatch_bfs cost 2898 us
+maxMatch_dfs cost 114102 us
+seed = 119
+maxMatch_bfs cost 6174 us
+maxMatch_dfs cost 94458 us
+seed = 120
+maxMatch_bfs cost 2288 us
+maxMatch_dfs cost 90501 us
+seed = 121
+maxMatch_bfs cost 4512 us
+maxMatch_dfs cost 106994 us
+seed = 122
+maxMatch_bfs cost 2142 us
+maxMatch_dfs cost 150663 us
+seed = 123
+maxMatch_bfs cost 2522 us
+maxMatch_dfs cost 78198 us
+seed = 124
+maxMatch_bfs cost 2760 us
+maxMatch_dfs cost 74713 us
+seed = 125
+maxMatch_bfs cost 1598 us
+maxMatch_dfs cost 169039 us
+seed = 126
+maxMatch_bfs cost 1378 us
+maxMatch_dfs cost 62761 us
+seed = 127
+maxMatch_bfs cost 2436 us
+maxMatch_dfs cost 57466 us
+seed = 128
+maxMatch_bfs cost 1558 us
+maxMatch_dfs cost 130479 us
+seed = 129
+maxMatch_bfs cost 1901 us
+maxMatch_dfs cost 143143 us
+seed = 130
+maxMatch_bfs cost 2323 us
+maxMatch_dfs cost 59912 us
+seed = 131
+maxMatch_bfs cost 2439 us
+maxMatch_dfs cost 57147 us
+seed = 132
+maxMatch_bfs cost 1656 us
+maxMatch_dfs cost 96218 us
+seed = 133
+maxMatch_bfs cost 2188 us
+maxMatch_dfs cost 106374 us
+seed = 134
+maxMatch_bfs cost 1312 us
+maxMatch_dfs cost 60600 us
+seed = 135
+maxMatch_bfs cost 1535 us
+maxMatch_dfs cost 67783 us
+seed = 136
+maxMatch_bfs cost 2686 us
+maxMatch_dfs cost 55330 us
+seed = 137
+maxMatch_bfs cost 2266 us
+maxMatch_dfs cost 59081 us
+seed = 138
+maxMatch_bfs cost 1636 us
+maxMatch_dfs cost 65933 us
+seed = 139
+maxMatch_bfs cost 1512 us
+maxMatch_dfs cost 106526 us
+seed = 140
+maxMatch_bfs cost 2801 us
+maxMatch_dfs cost 73840 us
+seed = 141
+maxMatch_bfs cost 2341 us
+maxMatch_dfs cost 64031 us
+seed = 142
+maxMatch_bfs cost 1537 us
+maxMatch_dfs cost 99305 us
+seed = 143
+maxMatch_bfs cost 1831 us
+maxMatch_dfs cost 119361 us
+seed = 144
+maxMatch_bfs cost 1641 us
+maxMatch_dfs cost 66889 us
+seed = 145
+maxMatch_bfs cost 1567 us
+maxMatch_dfs cost 70778 us
+seed = 146
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 63790 us
+seed = 147
+maxMatch_bfs cost 1727 us
+maxMatch_dfs cost 146928 us
+seed = 148
+maxMatch_bfs cost 1263 us
+maxMatch_dfs cost 49404 us
+seed = 149
+maxMatch_bfs cost 1777 us
+maxMatch_dfs cost 74532 us
+seed = 150
+maxMatch_bfs cost 7656 us
+maxMatch_dfs cost 136231 us
+seed = 151
+maxMatch_bfs cost 3298 us
+maxMatch_dfs cost 68440 us
+seed = 152
+maxMatch_bfs cost 2098 us
+maxMatch_dfs cost 121465 us
+seed = 153
+maxMatch_bfs cost 1883 us
+maxMatch_dfs cost 62410 us
+seed = 154
+maxMatch_bfs cost 1777 us
+maxMatch_dfs cost 68291 us
+seed = 155
+maxMatch_bfs cost 1692 us
+maxMatch_dfs cost 137440 us
+seed = 156
+maxMatch_bfs cost 4896 us
+maxMatch_dfs cost 124991 us
+seed = 157
+maxMatch_bfs cost 2958 us
+maxMatch_dfs cost 66263 us
+seed = 158
+maxMatch_bfs cost 2426 us
+maxMatch_dfs cost 65586 us
+seed = 159
+maxMatch_bfs cost 1621 us
+maxMatch_dfs cost 283835 us
+seed = 160
+maxMatch_bfs cost 1609 us
+maxMatch_dfs cost 65211 us
+seed = 161
+maxMatch_bfs cost 1429 us
+maxMatch_dfs cost 82521 us
+seed = 162
+maxMatch_bfs cost 1769 us
+maxMatch_dfs cost 63121 us
+seed = 163
+maxMatch_bfs cost 1586 us
+maxMatch_dfs cost 91865 us
+seed = 164
+maxMatch_bfs cost 1705 us
+maxMatch_dfs cost 63098 us
+seed = 165
+maxMatch_bfs cost 1404 us
+maxMatch_dfs cost 67434 us
+seed = 166
+maxMatch_bfs cost 1659 us
+maxMatch_dfs cost 88852 us
+seed = 167
+maxMatch_bfs cost 2126 us
+maxMatch_dfs cost 91046 us
+seed = 168
+maxMatch_bfs cost 2039 us
+maxMatch_dfs cost 58558 us
+seed = 169
+maxMatch_bfs cost 1583 us
+maxMatch_dfs cost 78664 us
+seed = 170
+maxMatch_bfs cost 3048 us
+maxMatch_dfs cost 62675 us
+seed = 171
+maxMatch_bfs cost 2490 us
+maxMatch_dfs cost 192434 us
+seed = 172
+maxMatch_bfs cost 3266 us
+maxMatch_dfs cost 54822 us
+seed = 173
+maxMatch_bfs cost 1469 us
+maxMatch_dfs cost 118388 us
+seed = 174
+maxMatch_bfs cost 1426 us
+maxMatch_dfs cost 63614 us
+seed = 175
+maxMatch_bfs cost 1827 us
+maxMatch_dfs cost 106357 us
+seed = 176
+maxMatch_bfs cost 4678 us
+maxMatch_dfs cost 65869 us
+seed = 177
+maxMatch_bfs cost 1948 us
+maxMatch_dfs cost 50318 us
+seed = 178
+maxMatch_bfs cost 1300 us
+maxMatch_dfs cost 168506 us
+seed = 179
+maxMatch_bfs cost 1781 us
+maxMatch_dfs cost 57941 us
+seed = 180
+maxMatch_bfs cost 1642 us
+maxMatch_dfs cost 79966 us
+seed = 181
+maxMatch_bfs cost 1207 us
+maxMatch_dfs cost 40637 us
+seed = 182
+maxMatch_bfs cost 2326 us
+maxMatch_dfs cost 49072 us
+seed = 183
+maxMatch_bfs cost 2277 us
+maxMatch_dfs cost 87010 us
+seed = 184
+maxMatch_bfs cost 3256 us
+maxMatch_dfs cost 57042 us
+seed = 185
+maxMatch_bfs cost 2164 us
+maxMatch_dfs cost 47364 us
+seed = 186
+maxMatch_bfs cost 1401 us
+maxMatch_dfs cost 68318 us
+seed = 187
+maxMatch_bfs cost 2106 us
+maxMatch_dfs cost 87510 us
+seed = 188
+maxMatch_bfs cost 1248 us
+maxMatch_dfs cost 60939 us
+seed = 189
+maxMatch_bfs cost 1765 us
+maxMatch_dfs cost 85390 us
+seed = 190
+maxMatch_bfs cost 1315 us
+maxMatch_dfs cost 48758 us
+seed = 191
+maxMatch_bfs cost 1427 us
+maxMatch_dfs cost 68257 us
+seed = 192
+maxMatch_bfs cost 2253 us
+maxMatch_dfs cost 50583 us
+seed = 193
+maxMatch_bfs cost 1079 us
+maxMatch_dfs cost 44505 us
+seed = 194
+maxMatch_bfs cost 1802 us
+maxMatch_dfs cost 95574 us
+seed = 195
+maxMatch_bfs cost 1743 us
+maxMatch_dfs cost 57997 us
+seed = 196
+maxMatch_bfs cost 1263 us
+maxMatch_dfs cost 49416 us
+seed = 197
+maxMatch_bfs cost 1231 us
+maxMatch_dfs cost 97800 us
+seed = 198
+maxMatch_bfs cost 1800 us
+maxMatch_dfs cost 43401 us
+seed = 199
+maxMatch_bfs cost 1143 us
+maxMatch_dfs cost 46857 us
+seed = 200
+maxMatch_bfs cost 1689 us
+maxMatch_dfs cost 54512 us
+seed = 201
+maxMatch_bfs cost 2082 us
+maxMatch_dfs cost 67429 us
+seed = 202
+maxMatch_bfs cost 1843 us
+maxMatch_dfs cost 72546 us
+seed = 203
+maxMatch_bfs cost 1700 us
+maxMatch_dfs cost 123888 us
+seed = 204
+maxMatch_bfs cost 1414 us
+maxMatch_dfs cost 65636 us
+seed = 205
+maxMatch_bfs cost 1470 us
+maxMatch_dfs cost 56291 us
+seed = 206
+maxMatch_bfs cost 1844 us
+maxMatch_dfs cost 109655 us
+seed = 207
+maxMatch_bfs cost 1385 us
+maxMatch_dfs cost 55660 us
+seed = 208
+maxMatch_bfs cost 1823 us
+maxMatch_dfs cost 83406 us
+seed = 209
+maxMatch_bfs cost 1418 us
+maxMatch_dfs cost 145816 us
+seed = 210
+maxMatch_bfs cost 1308 us
+maxMatch_dfs cost 45553 us
+seed = 211
+maxMatch_bfs cost 2790 us
+maxMatch_dfs cost 113981 us
+seed = 212
+maxMatch_bfs cost 2320 us
+maxMatch_dfs cost 106136 us
+seed = 213
+maxMatch_bfs cost 1582 us
+maxMatch_dfs cost 852632 us
+seed = 214
+maxMatch_bfs cost 1816 us
+maxMatch_dfs cost 43253 us
+seed = 215
+maxMatch_bfs cost 1267 us
+maxMatch_dfs cost 71503 us
+seed = 216
+maxMatch_bfs cost 2454 us
+maxMatch_dfs cost 128665 us
+seed = 217
+maxMatch_bfs cost 1396 us
+maxMatch_dfs cost 47380 us
+seed = 218
+maxMatch_bfs cost 1464 us
+maxMatch_dfs cost 49507 us
+seed = 219
+maxMatch_bfs cost 1961 us
+maxMatch_dfs cost 48258 us
+seed = 220
+maxMatch_bfs cost 1505 us
+maxMatch_dfs cost 48557 us
+seed = 221
+maxMatch_bfs cost 1286 us
+maxMatch_dfs cost 49605 us
+seed = 222
+maxMatch_bfs cost 1295 us
+maxMatch_dfs cost 720479 us
+seed = 223
+maxMatch_bfs cost 1542 us
+maxMatch_dfs cost 48062 us
+seed = 224
+maxMatch_bfs cost 1281 us
+maxMatch_dfs cost 45379 us
+seed = 225
+maxMatch_bfs cost 1237 us
+maxMatch_dfs cost 73386 us
+seed = 226
+maxMatch_bfs cost 1301 us
+maxMatch_dfs cost 75950 us
+seed = 227
+maxMatch_bfs cost 1606 us
+maxMatch_dfs cost 59144 us
+seed = 228
+maxMatch_bfs cost 2016 us
+maxMatch_dfs cost 117248 us
+seed = 229
+maxMatch_bfs cost 2250 us
+maxMatch_dfs cost 81087 us
+seed = 230
+maxMatch_bfs cost 1963 us
+maxMatch_dfs cost 115109 us
+seed = 231
+maxMatch_bfs cost 2291 us
+maxMatch_dfs cost 56660 us
+seed = 232
+maxMatch_bfs cost 1892 us
+maxMatch_dfs cost 52969 us
+seed = 233
+maxMatch_bfs cost 1977 us
+maxMatch_dfs cost 268692 us
+seed = 234
+maxMatch_bfs cost 1534 us
+maxMatch_dfs cost 73041 us
+seed = 235
+maxMatch_bfs cost 2081 us
+maxMatch_dfs cost 881871 us
+seed = 236
+maxMatch_bfs cost 1879 us
+maxMatch_dfs cost 144638 us
+seed = 237
+maxMatch_bfs cost 4535 us
+maxMatch_dfs cost 72315 us
+seed = 238
+maxMatch_bfs cost 1409 us
+maxMatch_dfs cost 93235 us
+seed = 239
+maxMatch_bfs cost 2272 us
+maxMatch_dfs cost 84004 us
+seed = 240
+maxMatch_bfs cost 2749 us
+maxMatch_dfs cost 73025 us
+seed = 241
+maxMatch_bfs cost 1799 us
+maxMatch_dfs cost 85761 us
+seed = 242
+maxMatch_bfs cost 1444 us
+maxMatch_dfs cost 60826 us
+seed = 243
+maxMatch_bfs cost 1645 us
+maxMatch_dfs cost 139811 us
+seed = 244
+maxMatch_bfs cost 1217 us
+maxMatch_dfs cost 57888 us
+seed = 245
+maxMatch_bfs cost 1512 us
+maxMatch_dfs cost 60072 us
+seed = 246
+maxMatch_bfs cost 2633 us
+maxMatch_dfs cost 95573 us
+seed = 247
+maxMatch_bfs cost 1367 us
+maxMatch_dfs cost 58967 us
+seed = 248
+maxMatch_bfs cost 2150 us
+maxMatch_dfs cost 326933 us
+seed = 249
+maxMatch_bfs cost 2114 us
+maxMatch_dfs cost 53445 us
+seed = 250
+maxMatch_bfs cost 1420 us
+maxMatch_dfs cost 74406 us
+seed = 251
+maxMatch_bfs cost 1872 us
+maxMatch_dfs cost 139764 us
+seed = 252
+maxMatch_bfs cost 1498 us
+maxMatch_dfs cost 95094 us
+seed = 253
+maxMatch_bfs cost 1221 us
+maxMatch_dfs cost 46317 us
+seed = 254
+maxMatch_bfs cost 1461 us
+maxMatch_dfs cost 40248 us
+seed = 255
+maxMatch_bfs cost 1722 us
+maxMatch_dfs cost 125257 us
+seed = 256
+maxMatch_bfs cost 1287 us
+maxMatch_dfs cost 57719 us
+seed = 257
+maxMatch_bfs cost 1380 us
+maxMatch_dfs cost 104923 us
+seed = 258
+maxMatch_bfs cost 1306 us
+maxMatch_dfs cost 99063 us
+seed = 259
+maxMatch_bfs cost 1447 us
+maxMatch_dfs cost 77087 us
+seed = 260
+maxMatch_bfs cost 1786 us
+maxMatch_dfs cost 106674 us
+seed = 261
+maxMatch_bfs cost 1607 us
+maxMatch_dfs cost 243698 us
+seed = 262
+maxMatch_bfs cost 2525 us
+maxMatch_dfs cost 65605 us
+seed = 263
+maxMatch_bfs cost 1432 us
+maxMatch_dfs cost 129625 us
+seed = 264
+maxMatch_bfs cost 2187 us
+maxMatch_dfs cost 66323 us
+seed = 265
+maxMatch_bfs cost 1746 us
+maxMatch_dfs cost 128058 us
+seed = 266
+maxMatch_bfs cost 1441 us
+maxMatch_dfs cost 50485 us
+seed = 267
+maxMatch_bfs cost 1414 us
+maxMatch_dfs cost 50417 us
+seed = 268
+maxMatch_bfs cost 1253 us
+maxMatch_dfs cost 82531 us
+seed = 269
+maxMatch_bfs cost 2696 us
+maxMatch_dfs cost 85487 us
+seed = 270
+maxMatch_bfs cost 1390 us
+maxMatch_dfs cost 44349 us
+seed = 271
+maxMatch_bfs cost 1273 us
+maxMatch_dfs cost 151445 us
+seed = 272
+maxMatch_bfs cost 1290 us
+maxMatch_dfs cost 47471 us
+seed = 273
+maxMatch_bfs cost 1620 us
+maxMatch_dfs cost 63330 us
+seed = 274
+maxMatch_bfs cost 3254 us
+maxMatch_dfs cost 129969 us
+seed = 275
+maxMatch_bfs cost 1449 us
+maxMatch_dfs cost 55173 us
+seed = 276
+maxMatch_bfs cost 1721 us
+maxMatch_dfs cost 105156 us
+seed = 277
+maxMatch_bfs cost 1495 us
+maxMatch_dfs cost 423284 us
+seed = 278
+maxMatch_bfs cost 2219 us
+maxMatch_dfs cost 59780 us
+seed = 279
+maxMatch_bfs cost 1292 us
+maxMatch_dfs cost 56874 us
+seed = 280
+maxMatch_bfs cost 1734 us
+maxMatch_dfs cost 82668 us
+seed = 281
+maxMatch_bfs cost 1406 us
+maxMatch_dfs cost 96759 us
+seed = 282
+maxMatch_bfs cost 1323 us
+maxMatch_dfs cost 53215 us
+seed = 283
+maxMatch_bfs cost 1450 us
+maxMatch_dfs cost 47764 us
+seed = 284
+maxMatch_bfs cost 1273 us
+maxMatch_dfs cost 42266 us
+seed = 285
+maxMatch_bfs cost 1417 us
+maxMatch_dfs cost 53109 us
+seed = 286
+maxMatch_bfs cost 1146 us
+maxMatch_dfs cost 41844 us
+seed = 287
+maxMatch_bfs cost 1199 us
+maxMatch_dfs cost 218300 us
+seed = 288
+maxMatch_bfs cost 1563 us
+maxMatch_dfs cost 71883 us
+seed = 289
+maxMatch_bfs cost 2054 us
+maxMatch_dfs cost 67718 us
+seed = 290
+maxMatch_bfs cost 2350 us
+maxMatch_dfs cost 1356520 us
+seed = 291
+maxMatch_bfs cost 1522 us
+maxMatch_dfs cost 47753 us
+seed = 292
+maxMatch_bfs cost 1152 us
+maxMatch_dfs cost 36752 us
+seed = 293
+maxMatch_bfs cost 1185 us
+maxMatch_dfs cost 36190 us
+seed = 294
+maxMatch_bfs cost 1596 us
+maxMatch_dfs cost 54590 us
+seed = 295
+maxMatch_bfs cost 1547 us
+maxMatch_dfs cost 55873 us
+seed = 296
+maxMatch_bfs cost 3009 us
+maxMatch_dfs cost 45367 us
+seed = 297
+maxMatch_bfs cost 1039 us
+maxMatch_dfs cost 43346 us
+seed = 298
+maxMatch_bfs cost 1193 us
+maxMatch_dfs cost 50429 us
+seed = 299
+maxMatch_bfs cost 1154 us
+maxMatch_dfs cost 70420 us
+seed = 300
+maxMatch_bfs cost 1313 us
+maxMatch_dfs cost 76183 us
+seed = 301
+maxMatch_bfs cost 1379 us
+maxMatch_dfs cost 55743 us
+seed = 302
+maxMatch_bfs cost 1267 us
+maxMatch_dfs cost 45343 us
+seed = 303
+maxMatch_bfs cost 1669 us
+maxMatch_dfs cost 53137 us
+seed = 304
+maxMatch_bfs cost 1194 us
+maxMatch_dfs cost 47311 us
+seed = 305
+maxMatch_bfs cost 1375 us
+maxMatch_dfs cost 44574 us
+seed = 306
+maxMatch_bfs cost 2145 us
+maxMatch_dfs cost 61044 us
+seed = 307
+maxMatch_bfs cost 2378 us
+maxMatch_dfs cost 53461 us
+seed = 308
+maxMatch_bfs cost 1341 us
+maxMatch_dfs cost 171446 us
+seed = 309
+maxMatch_bfs cost 1685 us
+maxMatch_dfs cost 37035 us
+seed = 310
+maxMatch_bfs cost 1375 us
+maxMatch_dfs cost 57515 us
+seed = 311
+maxMatch_bfs cost 1215 us
+maxMatch_dfs cost 46494 us
+seed = 312
+maxMatch_bfs cost 1617 us
+maxMatch_dfs cost 43110 us
+seed = 313
+maxMatch_bfs cost 3488 us
+maxMatch_dfs cost 75795 us
+seed = 314
+maxMatch_bfs cost 1853 us
+maxMatch_dfs cost 102664 us
+seed = 315
+maxMatch_bfs cost 1726 us
+maxMatch_dfs cost 60802 us
+seed = 316
+maxMatch_bfs cost 1462 us
+maxMatch_dfs cost 57779 us
+seed = 317
+maxMatch_bfs cost 1083 us
+maxMatch_dfs cost 54022 us
+seed = 318
+maxMatch_bfs cost 2168 us
+maxMatch_dfs cost 275229 us
+seed = 319
+maxMatch_bfs cost 1169 us
+maxMatch_dfs cost 38183 us
+seed = 320
+maxMatch_bfs cost 1415 us
+maxMatch_dfs cost 42702 us
+seed = 321
+maxMatch_bfs cost 1308 us
+maxMatch_dfs cost 55472 us
+seed = 322
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 51193 us
+seed = 323
+maxMatch_bfs cost 1433 us
+maxMatch_dfs cost 48071 us
+seed = 324
+maxMatch_bfs cost 2030 us
+maxMatch_dfs cost 64447 us
+seed = 325
+maxMatch_bfs cost 1352 us
+maxMatch_dfs cost 59013 us
+seed = 326
+maxMatch_bfs cost 2008 us
+maxMatch_dfs cost 42669 us
+seed = 327
+maxMatch_bfs cost 1329 us
+maxMatch_dfs cost 41127 us
+seed = 328
+maxMatch_bfs cost 1538 us
+maxMatch_dfs cost 70530 us
+seed = 329
+maxMatch_bfs cost 1444 us
+maxMatch_dfs cost 40381 us
+seed = 330
+maxMatch_bfs cost 1427 us
+maxMatch_dfs cost 49224 us
+seed = 331
+maxMatch_bfs cost 1271 us
+maxMatch_dfs cost 73093 us
+seed = 332
+maxMatch_bfs cost 1519 us
+maxMatch_dfs cost 116401 us
+seed = 333
+maxMatch_bfs cost 1522 us
+maxMatch_dfs cost 59615 us
+seed = 334
+maxMatch_bfs cost 2563 us
+maxMatch_dfs cost 95603 us
+seed = 335
+maxMatch_bfs cost 1187 us
+maxMatch_dfs cost 41100 us
+seed = 336
+maxMatch_bfs cost 1798 us
+maxMatch_dfs cost 75769 us
+seed = 337
+maxMatch_bfs cost 1716 us
+maxMatch_dfs cost 81570 us
+seed = 338
+maxMatch_bfs cost 1510 us
+maxMatch_dfs cost 102545 us
+seed = 339
+maxMatch_bfs cost 1291 us
+maxMatch_dfs cost 53204 us
+seed = 340
+maxMatch_bfs cost 1449 us
+maxMatch_dfs cost 118661 us
+seed = 341
+maxMatch_bfs cost 1199 us
+maxMatch_dfs cost 35790 us
+seed = 342
+maxMatch_bfs cost 1555 us
+maxMatch_dfs cost 96264 us
+seed = 343
+maxMatch_bfs cost 1309 us
+maxMatch_dfs cost 39167 us
+seed = 344
+maxMatch_bfs cost 1180 us
+maxMatch_dfs cost 46259 us
+seed = 345
+maxMatch_bfs cost 2060 us
+maxMatch_dfs cost 124273 us
+seed = 346
+maxMatch_bfs cost 10312 us
+maxMatch_dfs cost 53451 us
+seed = 347
+maxMatch_bfs cost 2114 us
+maxMatch_dfs cost 57272 us
+seed = 348
+maxMatch_bfs cost 1316 us
+maxMatch_dfs cost 60277 us
+seed = 349
+maxMatch_bfs cost 1389 us
+maxMatch_dfs cost 320935 us
+seed = 350
+maxMatch_bfs cost 1252 us
+maxMatch_dfs cost 41009 us
+seed = 351
+maxMatch_bfs cost 1662 us
+maxMatch_dfs cost 43564 us
+seed = 352
+maxMatch_bfs cost 1437 us
+maxMatch_dfs cost 131894 us
+seed = 353
+maxMatch_bfs cost 1202 us
+maxMatch_dfs cost 58905 us
+seed = 354
+maxMatch_bfs cost 1245 us
+maxMatch_dfs cost 41772 us
+seed = 355
+maxMatch_bfs cost 2027 us
+maxMatch_dfs cost 78135 us
+seed = 356
+maxMatch_bfs cost 1261 us
+maxMatch_dfs cost 65395 us
+seed = 357
+maxMatch_bfs cost 1063 us
+maxMatch_dfs cost 52205 us
+seed = 358
+maxMatch_bfs cost 1422 us
+maxMatch_dfs cost 108011 us
+seed = 359
+maxMatch_bfs cost 1241 us
+maxMatch_dfs cost 44715 us
+seed = 360
+maxMatch_bfs cost 1403 us
+maxMatch_dfs cost 37327 us
+seed = 361
+maxMatch_bfs cost 2064 us
+maxMatch_dfs cost 70022 us
+seed = 362
+maxMatch_bfs cost 3132 us
+maxMatch_dfs cost 67330 us
+seed = 363
+maxMatch_bfs cost 1875 us
+maxMatch_dfs cost 72494 us
+seed = 364
+maxMatch_bfs cost 1331 us
+maxMatch_dfs cost 90985 us
+seed = 365
+maxMatch_bfs cost 1611 us
+maxMatch_dfs cost 185364 us
+seed = 366
+maxMatch_bfs cost 1387 us
+maxMatch_dfs cost 42615 us
+seed = 367
+maxMatch_bfs cost 1582 us
+maxMatch_dfs cost 48457 us
+seed = 368
+maxMatch_bfs cost 1655 us
+maxMatch_dfs cost 101335 us
+seed = 369
+maxMatch_bfs cost 1475 us
+maxMatch_dfs cost 196751 us
+seed = 370
+maxMatch_bfs cost 1304 us
+maxMatch_dfs cost 38822 us
+seed = 371
+maxMatch_bfs cost 1331 us
+maxMatch_dfs cost 48023 us
+seed = 372
+maxMatch_bfs cost 1392 us
+maxMatch_dfs cost 41141 us
+seed = 373
+maxMatch_bfs cost 2665 us
+maxMatch_dfs cost 63186 us
+seed = 374
+maxMatch_bfs cost 1224 us
+maxMatch_dfs cost 1301529 us
+seed = 375
+maxMatch_bfs cost 1500 us
+maxMatch_dfs cost 76412 us
+seed = 376
+maxMatch_bfs cost 1192 us
+maxMatch_dfs cost 292293 us
+seed = 377
+maxMatch_bfs cost 2871 us
+maxMatch_dfs cost 52867 us
+seed = 378
+maxMatch_bfs cost 1167 us
+maxMatch_dfs cost 47727 us
+seed = 379
+maxMatch_bfs cost 1676 us
+maxMatch_dfs cost 66291 us
+seed = 380
+maxMatch_bfs cost 1429 us
+maxMatch_dfs cost 195782 us
+seed = 381
+maxMatch_bfs cost 1579 us
+maxMatch_dfs cost 68425 us
+seed = 382
+maxMatch_bfs cost 986 us
+maxMatch_dfs cost 39601 us
+seed = 383
+maxMatch_bfs cost 1534 us
+maxMatch_dfs cost 40967 us
+seed = 384
+maxMatch_bfs cost 1277 us
+maxMatch_dfs cost 45648 us
+seed = 385
+maxMatch_bfs cost 1236 us
+maxMatch_dfs cost 42062 us
+seed = 386
+maxMatch_bfs cost 1478 us
+maxMatch_dfs cost 76672 us
+seed = 387
+maxMatch_bfs cost 1216 us
+maxMatch_dfs cost 37105 us
+seed = 388
+maxMatch_bfs cost 1299 us
+maxMatch_dfs cost 41104 us
+seed = 389
+maxMatch_bfs cost 1483 us
+maxMatch_dfs cost 81633 us
+seed = 390
+maxMatch_bfs cost 1274 us
+maxMatch_dfs cost 40438 us
+seed = 391
+maxMatch_bfs cost 1097 us
+maxMatch_dfs cost 41027 us
+seed = 392
+maxMatch_bfs cost 1185 us
+maxMatch_dfs cost 49498 us
+seed = 393
+maxMatch_bfs cost 2243 us
+maxMatch_dfs cost 110733 us
+seed = 394
+maxMatch_bfs cost 2185 us
+maxMatch_dfs cost 87105 us
+seed = 395
+maxMatch_bfs cost 1293 us
+maxMatch_dfs cost 82563 us
+seed = 396
+maxMatch_bfs cost 1443 us
+maxMatch_dfs cost 145691 us
+seed = 397
+maxMatch_bfs cost 1652 us
+maxMatch_dfs cost 67678 us
+seed = 398
+maxMatch_bfs cost 2091 us
+maxMatch_dfs cost 167669 us
+seed = 399
+maxMatch_bfs cost 1150 us
+maxMatch_dfs cost 62892 us
+seed = 400
+maxMatch_bfs cost 1506 us
+maxMatch_dfs cost 39664 us
+seed = 401
+maxMatch_bfs cost 1098 us
+maxMatch_dfs cost 313449 us
+seed = 402
+maxMatch_bfs cost 1172 us
+maxMatch_dfs cost 432502 us
+seed = 403
+maxMatch_bfs cost 1595 us
+maxMatch_dfs cost 54570 us
+seed = 404
+maxMatch_bfs cost 1588 us
+maxMatch_dfs cost 72546 us
+seed = 405
+maxMatch_bfs cost 2429 us
+maxMatch_dfs cost 55388 us
+seed = 406
+maxMatch_bfs cost 2141 us
+maxMatch_dfs cost 64678 us
+seed = 407
+maxMatch_bfs cost 1704 us
+maxMatch_dfs cost 91590 us
+seed = 408
+maxMatch_bfs cost 1796 us
+maxMatch_dfs cost 231901 us
+seed = 409
+maxMatch_bfs cost 1950 us
+maxMatch_dfs cost 75583 us
+seed = 410
+maxMatch_bfs cost 1357 us
+maxMatch_dfs cost 60418 us
+seed = 411
+maxMatch_bfs cost 1166 us
+maxMatch_dfs cost 45975 us
+seed = 412
+maxMatch_bfs cost 1226 us
+maxMatch_dfs cost 108440 us
+seed = 413
+maxMatch_bfs cost 1232 us
+maxMatch_dfs cost 69554 us
+seed = 414
+maxMatch_bfs cost 1286 us
+maxMatch_dfs cost 43809 us
+seed = 415
+maxMatch_bfs cost 3061 us
+maxMatch_dfs cost 65490 us
+seed = 416
+maxMatch_bfs cost 1463 us
+maxMatch_dfs cost 46733 us
+seed = 417
+maxMatch_bfs cost 1161 us
+maxMatch_dfs cost 37987 us
+seed = 418
+maxMatch_bfs cost 1444 us
+maxMatch_dfs cost 54054 us
+seed = 419
+maxMatch_bfs cost 2355 us
+maxMatch_dfs cost 222954 us
+seed = 420
+maxMatch_bfs cost 1499 us
+maxMatch_dfs cost 49845 us
+seed = 421
+maxMatch_bfs cost 1957 us
+maxMatch_dfs cost 53408 us
+seed = 422
+maxMatch_bfs cost 1376 us
+maxMatch_dfs cost 71212 us
+seed = 423
+maxMatch_bfs cost 1540 us
+maxMatch_dfs cost 47318 us
+seed = 424
+maxMatch_bfs cost 1321 us
+maxMatch_dfs cost 41708 us
+seed = 425
+maxMatch_bfs cost 1287 us
+maxMatch_dfs cost 60268 us
+seed = 426
+maxMatch_bfs cost 1582 us
+maxMatch_dfs cost 67867 us
+seed = 427
+maxMatch_bfs cost 2397 us
+maxMatch_dfs cost 56722 us
+seed = 428
+maxMatch_bfs cost 1153 us
+maxMatch_dfs cost 37473 us
+seed = 429
+maxMatch_bfs cost 1311 us
+maxMatch_dfs cost 111240 us
+seed = 430
+maxMatch_bfs cost 1253 us
+maxMatch_dfs cost 48706 us
+seed = 431
+maxMatch_bfs cost 1537 us
+maxMatch_dfs cost 61094 us
+seed = 432
+maxMatch_bfs cost 3134 us
+maxMatch_dfs cost 61417 us
+seed = 433
+maxMatch_bfs cost 1241 us
+maxMatch_dfs cost 62905 us
+seed = 434
+maxMatch_bfs cost 2308 us
+maxMatch_dfs cost 54042 us
+seed = 435
+maxMatch_bfs cost 1130 us
+maxMatch_dfs cost 43582 us
+seed = 436
+maxMatch_bfs cost 1730 us
+maxMatch_dfs cost 73318 us
+seed = 437
+maxMatch_bfs cost 2767 us
+maxMatch_dfs cost 46647 us
+seed = 438
+maxMatch_bfs cost 1219 us
+maxMatch_dfs cost 37805 us
+seed = 439
+maxMatch_bfs cost 1417 us
+maxMatch_dfs cost 487228 us
+seed = 440
+maxMatch_bfs cost 1358 us
+maxMatch_dfs cost 58604 us
+seed = 441
+maxMatch_bfs cost 1271 us
+maxMatch_dfs cost 62034 us
+seed = 442
+maxMatch_bfs cost 1801 us
+maxMatch_dfs cost 48103 us
+seed = 443
+maxMatch_bfs cost 1180 us
+maxMatch_dfs cost 36896 us
+seed = 444
+maxMatch_bfs cost 2585 us
+maxMatch_dfs cost 81713 us
+seed = 445
+maxMatch_bfs cost 1252 us
+maxMatch_dfs cost 54525 us
+seed = 446
+maxMatch_bfs cost 1298 us
+maxMatch_dfs cost 62433 us
+seed = 447
+maxMatch_bfs cost 1964 us
+maxMatch_dfs cost 138536 us
+seed = 448
+maxMatch_bfs cost 1239 us
+maxMatch_dfs cost 229226 us
+seed = 449
+maxMatch_bfs cost 1736 us
+maxMatch_dfs cost 52510 us
+seed = 450
+maxMatch_bfs cost 1894 us
+maxMatch_dfs cost 58436 us
+seed = 451
+maxMatch_bfs cost 1234 us
+maxMatch_dfs cost 106703 us
+seed = 452
+maxMatch_bfs cost 1502 us
+maxMatch_dfs cost 48013 us
+seed = 453
+maxMatch_bfs cost 2151 us
+maxMatch_dfs cost 38101 us
+seed = 454
+maxMatch_bfs cost 1306 us
+maxMatch_dfs cost 144310 us
+seed = 455
+maxMatch_bfs cost 1523 us
+maxMatch_dfs cost 62830 us
+seed = 456
+maxMatch_bfs cost 1253 us
+maxMatch_dfs cost 137177 us
+seed = 457
+maxMatch_bfs cost 2133 us
+maxMatch_dfs cost 46838 us
+seed = 458
+maxMatch_bfs cost 1288 us
+maxMatch_dfs cost 50836 us
+seed = 459
+maxMatch_bfs cost 1652 us
+maxMatch_dfs cost 67305 us
+seed = 460
+maxMatch_bfs cost 2125 us
+maxMatch_dfs cost 57434 us
+seed = 461
+maxMatch_bfs cost 1176 us
+maxMatch_dfs cost 55670 us
+seed = 462
+maxMatch_bfs cost 1196 us
+maxMatch_dfs cost 54020 us
+seed = 463
+maxMatch_bfs cost 1569 us
+maxMatch_dfs cost 48839 us
+seed = 464
+maxMatch_bfs cost 1258 us
+maxMatch_dfs cost 60009 us
+seed = 465
+maxMatch_bfs cost 1308 us
+maxMatch_dfs cost 39894 us
+seed = 466
+maxMatch_bfs cost 2978 us
+maxMatch_dfs cost 49635 us
+seed = 467
+maxMatch_bfs cost 2492 us
+maxMatch_dfs cost 144441 us
+seed = 468
+maxMatch_bfs cost 1029 us
+maxMatch_dfs cost 42374 us
+seed = 469
+maxMatch_bfs cost 1842 us
+maxMatch_dfs cost 53614 us
+seed = 470
+maxMatch_bfs cost 1338 us
+maxMatch_dfs cost 91673 us
+seed = 471
+maxMatch_bfs cost 2022 us
+maxMatch_dfs cost 63555 us
+seed = 472
+maxMatch_bfs cost 1206 us
+maxMatch_dfs cost 61650 us
+seed = 473
+maxMatch_bfs cost 2034 us
+maxMatch_dfs cost 109449 us
+seed = 474
+maxMatch_bfs cost 1730 us
+maxMatch_dfs cost 59747 us
+seed = 475
+maxMatch_bfs cost 1827 us
+maxMatch_dfs cost 66714 us
+seed = 476
+maxMatch_bfs cost 1693 us
+maxMatch_dfs cost 113358 us
+seed = 477
+maxMatch_bfs cost 2404 us
+maxMatch_dfs cost 46034 us
+seed = 478
+maxMatch_bfs cost 1571 us
+maxMatch_dfs cost 52543 us
+seed = 479
+maxMatch_bfs cost 1380 us
+maxMatch_dfs cost 57476 us
+seed = 480
+maxMatch_bfs cost 2160 us
+maxMatch_dfs cost 43262 us
+seed = 481
+maxMatch_bfs cost 1440 us
+maxMatch_dfs cost 58695 us
+seed = 482
+maxMatch_bfs cost 4273 us
+maxMatch_dfs cost 53168 us
+seed = 483
+maxMatch_bfs cost 1414 us
+maxMatch_dfs cost 85324 us
+seed = 484
+maxMatch_bfs cost 1575 us
+maxMatch_dfs cost 48532 us
+seed = 485
+maxMatch_bfs cost 1201 us
+maxMatch_dfs cost 74599 us
+seed = 486
+maxMatch_bfs cost 1977 us
+maxMatch_dfs cost 61214 us
+seed = 487
+maxMatch_bfs cost 2012 us
+maxMatch_dfs cost 94938 us
+seed = 488
+maxMatch_bfs cost 2115 us
+maxMatch_dfs cost 54645 us
+seed = 489
+maxMatch_bfs cost 1382 us
+maxMatch_dfs cost 70580 us
+seed = 490
+maxMatch_bfs cost 1564 us
+maxMatch_dfs cost 63438 us
+seed = 491
+maxMatch_bfs cost 1362 us
+maxMatch_dfs cost 37764 us
+seed = 492
+maxMatch_bfs cost 1242 us
+maxMatch_dfs cost 39720 us
+seed = 493
+maxMatch_bfs cost 1340 us
+maxMatch_dfs cost 45428 us
+seed = 494
+maxMatch_bfs cost 1208 us
+maxMatch_dfs cost 42877 us
+seed = 495
+maxMatch_bfs cost 1395 us
+maxMatch_dfs cost 285223 us
+seed = 496
+maxMatch_bfs cost 1190 us
+maxMatch_dfs cost 64770 us
+seed = 497
+maxMatch_bfs cost 2443 us
+maxMatch_dfs cost 53558 us
+seed = 498
+maxMatch_bfs cost 1934 us
+maxMatch_dfs cost 38141 us
+seed = 499
+maxMatch_bfs cost 1526 us
+maxMatch_dfs cost 48785 us
+seed = 500
+maxMatch_bfs cost 2617 us
+maxMatch_dfs cost 44604 us
+seed = 501
+maxMatch_bfs cost 2107 us
+maxMatch_dfs cost 60918 us
+seed = 502
+maxMatch_bfs cost 1290 us
+maxMatch_dfs cost 40852 us
+seed = 503
+maxMatch_bfs cost 1622 us
+maxMatch_dfs cost 45493 us
+seed = 504
+maxMatch_bfs cost 1192 us
+maxMatch_dfs cost 86921 us
+seed = 505
+maxMatch_bfs cost 1285 us
+maxMatch_dfs cost 98884 us
+seed = 506
+maxMatch_bfs cost 1205 us
+maxMatch_dfs cost 39813 us
+seed = 507
+maxMatch_bfs cost 2568 us
+maxMatch_dfs cost 68565 us
+seed = 508
+maxMatch_bfs cost 2860 us
+maxMatch_dfs cost 75583 us
+seed = 509
+maxMatch_bfs cost 1408 us
+maxMatch_dfs cost 38451 us
+seed = 510
+maxMatch_bfs cost 1295 us
+maxMatch_dfs cost 40980 us
+seed = 511
+maxMatch_bfs cost 1723 us
+maxMatch_dfs cost 58683 us
+seed = 512
+maxMatch_bfs cost 1263 us
+maxMatch_dfs cost 71880 us
+seed = 513
+maxMatch_bfs cost 1583 us
+maxMatch_dfs cost 194565 us
+seed = 514
+maxMatch_bfs cost 1299 us
+maxMatch_dfs cost 69247 us
+seed = 515
+maxMatch_bfs cost 1073 us
+maxMatch_dfs cost 39997 us
+seed = 516
+maxMatch_bfs cost 1311 us
+maxMatch_dfs cost 51485 us
+seed = 517
+maxMatch_bfs cost 1316 us
+maxMatch_dfs cost 45908 us
+seed = 518
+maxMatch_bfs cost 1274 us
+maxMatch_dfs cost 55850 us
+seed = 519
+maxMatch_bfs cost 1243 us
+maxMatch_dfs cost 41928 us
+seed = 520
+maxMatch_bfs cost 1371 us
+maxMatch_dfs cost 334550 us
+seed = 521
+maxMatch_bfs cost 1194 us
+maxMatch_dfs cost 39171 us
+seed = 522
+maxMatch_bfs cost 1259 us
+maxMatch_dfs cost 58224 us
+seed = 523
+maxMatch_bfs cost 1175 us
+maxMatch_dfs cost 66085 us
+seed = 524
+maxMatch_bfs cost 1163 us
+maxMatch_dfs cost 35794 us
+seed = 525
+maxMatch_bfs cost 1416 us
+maxMatch_dfs cost 44657 us
+seed = 526
+maxMatch_bfs cost 1111 us
+maxMatch_dfs cost 52659 us
+seed = 527
+maxMatch_bfs cost 2001 us
+maxMatch_dfs cost 44068 us
+seed = 528
+maxMatch_bfs cost 1219 us
+maxMatch_dfs cost 46466 us
+seed = 529
+maxMatch_bfs cost 1997 us
+maxMatch_dfs cost 51184 us
+seed = 530
+maxMatch_bfs cost 1520 us
+maxMatch_dfs cost 80404 us
+seed = 531
+maxMatch_bfs cost 1285 us
+maxMatch_dfs cost 50293 us
+seed = 532
+maxMatch_bfs cost 1685 us
+maxMatch_dfs cost 69245 us
+seed = 533
+maxMatch_bfs cost 1047 us
+maxMatch_dfs cost 37382 us
+seed = 534
+maxMatch_bfs cost 1151 us
+maxMatch_dfs cost 49479 us
+seed = 535
+maxMatch_bfs cost 1132 us
+maxMatch_dfs cost 38933 us
+seed = 536
+maxMatch_bfs cost 1229 us
+maxMatch_dfs cost 39004 us
+seed = 537
+maxMatch_bfs cost 1437 us
+maxMatch_dfs cost 82115 us
+seed = 538
+maxMatch_bfs cost 1424 us
+maxMatch_dfs cost 45437 us
+seed = 539
+maxMatch_bfs cost 1688 us
+maxMatch_dfs cost 662924 us
+seed = 540
+maxMatch_bfs cost 1185 us
+maxMatch_dfs cost 33780 us
+seed = 541
+maxMatch_bfs cost 1400 us
+maxMatch_dfs cost 46824 us
+seed = 542
+maxMatch_bfs cost 1282 us
+maxMatch_dfs cost 142010 us
+seed = 543
+maxMatch_bfs cost 1156 us
+maxMatch_dfs cost 48758 us
+seed = 544
+maxMatch_bfs cost 1372 us
+maxMatch_dfs cost 101966 us
+seed = 545
+maxMatch_bfs cost 1355 us
+maxMatch_dfs cost 60662 us
+seed = 546
+maxMatch_bfs cost 1224 us
+maxMatch_dfs cost 64315 us
+seed = 547
+maxMatch_bfs cost 1252 us
+maxMatch_dfs cost 55700 us
+seed = 548
+maxMatch_bfs cost 1205 us
+maxMatch_dfs cost 57459 us
+seed = 549
+maxMatch_bfs cost 1333 us
+maxMatch_dfs cost 49189 us
+seed = 550
+maxMatch_bfs cost 1251 us
+maxMatch_dfs cost 34206 us
+seed = 551
+maxMatch_bfs cost 1444 us
+maxMatch_dfs cost 43216 us
+seed = 552
+maxMatch_bfs cost 1376 us
+maxMatch_dfs cost 47600 us
+seed = 553
+maxMatch_bfs cost 1226 us
+maxMatch_dfs cost 43544 us
+seed = 554
+maxMatch_bfs cost 1191 us
+maxMatch_dfs cost 52161 us
+seed = 555
+maxMatch_bfs cost 1487 us
+maxMatch_dfs cost 42469 us
+seed = 556
+maxMatch_bfs cost 1266 us
+maxMatch_dfs cost 36067 us
+seed = 557
+maxMatch_bfs cost 1224 us
+maxMatch_dfs cost 44643 us
+seed = 558
+maxMatch_bfs cost 1159 us
+maxMatch_dfs cost 52908 us
+seed = 559
+maxMatch_bfs cost 1173 us
+maxMatch_dfs cost 36335 us
+seed = 560
+maxMatch_bfs cost 2191 us
+maxMatch_dfs cost 46639 us
+seed = 561
+maxMatch_bfs cost 996 us
+maxMatch_dfs cost 32416 us
+seed = 562
+maxMatch_bfs cost 1143 us
+maxMatch_dfs cost 47332 us
+seed = 563
+maxMatch_bfs cost 1323 us
+maxMatch_dfs cost 68173 us
+seed = 564
+maxMatch_bfs cost 1141 us
+maxMatch_dfs cost 40522 us
+seed = 565
+maxMatch_bfs cost 1201 us
+maxMatch_dfs cost 60291 us
+seed = 566
+maxMatch_bfs cost 2386 us
+maxMatch_dfs cost 61336 us
+seed = 567
+maxMatch_bfs cost 1137 us
+maxMatch_dfs cost 45779 us
+seed = 568
+maxMatch_bfs cost 2369 us
+maxMatch_dfs cost 44106 us
+seed = 569
+maxMatch_bfs cost 1186 us
+maxMatch_dfs cost 46323 us
+seed = 570
+maxMatch_bfs cost 1088 us
+maxMatch_dfs cost 38957 us
+seed = 571
+maxMatch_bfs cost 1144 us
+maxMatch_dfs cost 66163 us
+seed = 572
+maxMatch_bfs cost 1489 us
+maxMatch_dfs cost 51418 us
+seed = 573
+maxMatch_bfs cost 2542 us
+maxMatch_dfs cost 138990 us
+seed = 574
+maxMatch_bfs cost 1603 us
+maxMatch_dfs cost 98830 us
+seed = 575
+maxMatch_bfs cost 1996 us
+maxMatch_dfs cost 54386 us
+seed = 576
+maxMatch_bfs cost 4668 us
+maxMatch_dfs cost 81979 us
+seed = 577
+maxMatch_bfs cost 2341 us
+maxMatch_dfs cost 66155 us
+seed = 578
+maxMatch_bfs cost 2540 us
+maxMatch_dfs cost 81118 us
+seed = 579
+maxMatch_bfs cost 2578 us
+maxMatch_dfs cost 144390 us
+seed = 580
+maxMatch_bfs cost 1350 us
+maxMatch_dfs cost 96034 us
+seed = 581
+maxMatch_bfs cost 1873 us
+maxMatch_dfs cost 70881 us
+seed = 582
+maxMatch_bfs cost 3110 us
+maxMatch_dfs cost 1739486 us
+seed = 583
+maxMatch_bfs cost 946 us
+maxMatch_dfs cost 36571 us
+seed = 584
+maxMatch_bfs cost 1363 us
+maxMatch_dfs cost 50474 us
+seed = 585
+maxMatch_bfs cost 1085 us
+maxMatch_dfs cost 61699 us
+seed = 586
+maxMatch_bfs cost 1392 us
+maxMatch_dfs cost 41748 us
+seed = 587
+maxMatch_bfs cost 1411 us
+maxMatch_dfs cost 84276 us
+seed = 588
+maxMatch_bfs cost 1296 us
+maxMatch_dfs cost 142679 us
+seed = 589
+maxMatch_bfs cost 1177 us
+maxMatch_dfs cost 48118 us
+seed = 590
+maxMatch_bfs cost 2226 us
+maxMatch_dfs cost 94591 us
+seed = 591
+maxMatch_bfs cost 1316 us
+maxMatch_dfs cost 146244 us
+seed = 592
+maxMatch_bfs cost 1256 us
+maxMatch_dfs cost 49671 us
+seed = 593
+maxMatch_bfs cost 1478 us
+maxMatch_dfs cost 46035 us
+seed = 594
+maxMatch_bfs cost 1712 us
+maxMatch_dfs cost 42963 us
+seed = 595
+maxMatch_bfs cost 1245 us
+maxMatch_dfs cost 87474 us
+seed = 596
+maxMatch_bfs cost 1233 us
+maxMatch_dfs cost 43552 us
+seed = 597
+maxMatch_bfs cost 1286 us
+maxMatch_dfs cost 51208 us
+seed = 598
+maxMatch_bfs cost 1261 us
+maxMatch_dfs cost 44325 us
+seed = 599
+maxMatch_bfs cost 1160 us
+maxMatch_dfs cost 51011 us
+seed = 600
+maxMatch_bfs cost 1300 us
+maxMatch_dfs cost 236547 us
+seed = 601
+maxMatch_bfs cost 1316 us
+maxMatch_dfs cost 149541 us
+seed = 602
+maxMatch_bfs cost 1569 us
+maxMatch_dfs cost 45958 us
+seed = 603
+maxMatch_bfs cost 1224 us
+maxMatch_dfs cost 47027 us
+seed = 604
+maxMatch_bfs cost 1122 us
+maxMatch_dfs cost 54155 us
+seed = 605
+maxMatch_bfs cost 978 us
+maxMatch_dfs cost 33276 us
+seed = 606
+maxMatch_bfs cost 1286 us
+maxMatch_dfs cost 44908 us
+seed = 607
+maxMatch_bfs cost 1358 us
+maxMatch_dfs cost 36061 us
+seed = 608
+maxMatch_bfs cost 1831 us
+maxMatch_dfs cost 44399 us
+seed = 609
+maxMatch_bfs cost 1263 us
+maxMatch_dfs cost 85810 us
+seed = 610
+maxMatch_bfs cost 1559 us
+maxMatch_dfs cost 51096 us
+seed = 611
+maxMatch_bfs cost 1189 us
+maxMatch_dfs cost 42268 us
+seed = 612
+maxMatch_bfs cost 2032 us
+maxMatch_dfs cost 100587 us
+seed = 613
+maxMatch_bfs cost 1425 us
+maxMatch_dfs cost 85124 us
+seed = 614
+maxMatch_bfs cost 1343 us
+maxMatch_dfs cost 41955 us
+seed = 615
+maxMatch_bfs cost 1554 us
+maxMatch_dfs cost 52914 us
+seed = 616
+maxMatch_bfs cost 1293 us
+maxMatch_dfs cost 57383 us
+seed = 617
+maxMatch_bfs cost 1405 us
+maxMatch_dfs cost 48444 us
+seed = 618
+maxMatch_bfs cost 2003 us
+maxMatch_dfs cost 177241 us
+seed = 619
+maxMatch_bfs cost 1529 us
+maxMatch_dfs cost 55653 us
+seed = 620
+maxMatch_bfs cost 1408 us
+maxMatch_dfs cost 41567 us
+seed = 621
+maxMatch_bfs cost 1153 us
+maxMatch_dfs cost 38934 us
+seed = 622
+maxMatch_bfs cost 1424 us
+maxMatch_dfs cost 43265 us
+seed = 623
+maxMatch_bfs cost 1274 us
+maxMatch_dfs cost 46371 us
+seed = 624
+maxMatch_bfs cost 1317 us
+maxMatch_dfs cost 65487 us
+seed = 625
+maxMatch_bfs cost 1082 us
+maxMatch_dfs cost 36365 us
+seed = 626
+maxMatch_bfs cost 1272 us
+maxMatch_dfs cost 55842 us
+seed = 627
+maxMatch_bfs cost 1693 us
+maxMatch_dfs cost 33297 us
+seed = 628
+maxMatch_bfs cost 1297 us
+maxMatch_dfs cost 202446 us
+seed = 629
+maxMatch_bfs cost 1297 us
+maxMatch_dfs cost 37451 us
+seed = 630
+maxMatch_bfs cost 1595 us
+maxMatch_dfs cost 48912 us
+seed = 631
+maxMatch_bfs cost 1290 us
+maxMatch_dfs cost 71671 us
+seed = 632
+maxMatch_bfs cost 1161 us
+maxMatch_dfs cost 51847 us
+seed = 633
+maxMatch_bfs cost 1097 us
+maxMatch_dfs cost 42040 us
+seed = 634
+maxMatch_bfs cost 1276 us
+maxMatch_dfs cost 83352 us
+seed = 635
+maxMatch_bfs cost 1239 us
+maxMatch_dfs cost 102865 us
+seed = 636
+maxMatch_bfs cost 1221 us
+maxMatch_dfs cost 37685 us
+seed = 637
+maxMatch_bfs cost 1836 us
+maxMatch_dfs cost 52919 us
+seed = 638
+maxMatch_bfs cost 1358 us
+maxMatch_dfs cost 54282 us
+seed = 639
+maxMatch_bfs cost 1285 us
+maxMatch_dfs cost 56780 us
+seed = 640
+maxMatch_bfs cost 2686 us
+maxMatch_dfs cost 74104 us
+seed = 641
+maxMatch_bfs cost 2150 us
+maxMatch_dfs cost 61419 us
+seed = 642
+maxMatch_bfs cost 1046 us
+maxMatch_dfs cost 59459 us
+seed = 643
+maxMatch_bfs cost 1560 us
+maxMatch_dfs cost 69669 us
+seed = 644
+maxMatch_bfs cost 1380 us
+maxMatch_dfs cost 48018 us
+seed = 645
+maxMatch_bfs cost 1307 us
+maxMatch_dfs cost 52558 us
+seed = 646
+maxMatch_bfs cost 1191 us
+maxMatch_dfs cost 49998 us
+seed = 647
+maxMatch_bfs cost 1516 us
+maxMatch_dfs cost 163491 us
+seed = 648
+maxMatch_bfs cost 1147 us
+maxMatch_dfs cost 52770 us
+seed = 649
+maxMatch_bfs cost 1229 us
+maxMatch_dfs cost 51486 us
+seed = 650
+maxMatch_bfs cost 1219 us
+maxMatch_dfs cost 52428 us
+seed = 651
+maxMatch_bfs cost 1305 us
+maxMatch_dfs cost 78924 us
+seed = 652
+maxMatch_bfs cost 2530 us
+maxMatch_dfs cost 41399 us
+seed = 653
+maxMatch_bfs cost 1160 us
+maxMatch_dfs cost 43051 us
+seed = 654
+maxMatch_bfs cost 1176 us
+maxMatch_dfs cost 35880 us
+seed = 655
+maxMatch_bfs cost 1513 us
+maxMatch_dfs cost 60344 us
+seed = 656
+maxMatch_bfs cost 1287 us
+maxMatch_dfs cost 57011 us
+seed = 657
+maxMatch_bfs cost 1361 us
+maxMatch_dfs cost 44896 us
+seed = 658
+maxMatch_bfs cost 1030 us
+maxMatch_dfs cost 68145 us
+seed = 659
+maxMatch_bfs cost 1282 us
+maxMatch_dfs cost 39440 us
+seed = 660
+maxMatch_bfs cost 1369 us
+maxMatch_dfs cost 111888 us
+seed = 661
+maxMatch_bfs cost 1038 us
+maxMatch_dfs cost 33724 us
+seed = 662
+maxMatch_bfs cost 1519 us
+maxMatch_dfs cost 176265 us
+seed = 663
+maxMatch_bfs cost 1319 us
+maxMatch_dfs cost 48361 us
+seed = 664
+maxMatch_bfs cost 1221 us
+maxMatch_dfs cost 71482 us
+seed = 665
+maxMatch_bfs cost 1207 us
+maxMatch_dfs cost 62961 us
+seed = 666
+maxMatch_bfs cost 1420 us
+maxMatch_dfs cost 47388 us
+seed = 667
+maxMatch_bfs cost 1230 us
+maxMatch_dfs cost 67616 us
+seed = 668
+maxMatch_bfs cost 987 us
+maxMatch_dfs cost 41582 us
+seed = 669
+maxMatch_bfs cost 1339 us
+maxMatch_dfs cost 45537 us
+seed = 670
+maxMatch_bfs cost 1162 us
+maxMatch_dfs cost 45576 us
+seed = 671
+maxMatch_bfs cost 1108 us
+maxMatch_dfs cost 53441 us
+seed = 672
+maxMatch_bfs cost 1461 us
+maxMatch_dfs cost 53183 us
+seed = 673
+maxMatch_bfs cost 1092 us
+maxMatch_dfs cost 38659 us
+seed = 674
+maxMatch_bfs cost 1410 us
+maxMatch_dfs cost 68154 us
+seed = 675
+maxMatch_bfs cost 1442 us
+maxMatch_dfs cost 52955 us
+seed = 676
+maxMatch_bfs cost 1227 us
+maxMatch_dfs cost 43716 us
+seed = 677
+maxMatch_bfs cost 2290 us
+maxMatch_dfs cost 112577 us
+seed = 678
+maxMatch_bfs cost 1532 us
+maxMatch_dfs cost 69743 us
+seed = 679
+maxMatch_bfs cost 1735 us
+maxMatch_dfs cost 57379 us
+seed = 680
+maxMatch_bfs cost 1408 us
+maxMatch_dfs cost 76422 us
+seed = 681
+maxMatch_bfs cost 1282 us
+maxMatch_dfs cost 133781 us
+seed = 682
+maxMatch_bfs cost 1447 us
+maxMatch_dfs cost 78516 us
+seed = 683
+maxMatch_bfs cost 2332 us
+maxMatch_dfs cost 378314 us
+seed = 684
+maxMatch_bfs cost 1546 us
+maxMatch_dfs cost 1493013 us
+seed = 685
+maxMatch_bfs cost 1709 us
+maxMatch_dfs cost 113683 us
+seed = 686
+maxMatch_bfs cost 1186 us
+maxMatch_dfs cost 39501 us
+seed = 687
+maxMatch_bfs cost 1404 us
+maxMatch_dfs cost 43580 us
+seed = 688
+maxMatch_bfs cost 1422 us
+maxMatch_dfs cost 68405 us
+seed = 689
+maxMatch_bfs cost 2411 us
+maxMatch_dfs cost 79873 us
+seed = 690
+maxMatch_bfs cost 2503 us
+maxMatch_dfs cost 82655 us
+seed = 691
+maxMatch_bfs cost 3189 us
+maxMatch_dfs cost 67819 us
+seed = 692
+maxMatch_bfs cost 2498 us
+maxMatch_dfs cost 101707 us
+seed = 693
+maxMatch_bfs cost 1527 us
+maxMatch_dfs cost 59152 us
+seed = 694
+maxMatch_bfs cost 2242 us
+maxMatch_dfs cost 52700 us
+seed = 695
+maxMatch_bfs cost 2152 us
+maxMatch_dfs cost 87111 us
+seed = 696
+maxMatch_bfs cost 2515 us
+maxMatch_dfs cost 266443 us
+seed = 697
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 67406 us
+seed = 698
+maxMatch_bfs cost 1401 us
+maxMatch_dfs cost 54491 us
+seed = 699
+maxMatch_bfs cost 1305 us
+maxMatch_dfs cost 93123 us
+seed = 700
+maxMatch_bfs cost 1335 us
+maxMatch_dfs cost 43351 us
+seed = 701
+maxMatch_bfs cost 1578 us
+maxMatch_dfs cost 135758 us
+seed = 702
+maxMatch_bfs cost 1548 us
+maxMatch_dfs cost 44962 us
+seed = 703
+maxMatch_bfs cost 1209 us
+maxMatch_dfs cost 40367 us
+seed = 704
+maxMatch_bfs cost 1239 us
+maxMatch_dfs cost 106086 us
+seed = 705
+maxMatch_bfs cost 2378 us
+maxMatch_dfs cost 132054 us
+seed = 706
+maxMatch_bfs cost 1379 us
+maxMatch_dfs cost 48099 us
+seed = 707
+maxMatch_bfs cost 1326 us
+maxMatch_dfs cost 54601 us
+seed = 708
+maxMatch_bfs cost 1559 us
+maxMatch_dfs cost 73392 us
+seed = 709
+maxMatch_bfs cost 1661 us
+maxMatch_dfs cost 91151 us
+seed = 710
+maxMatch_bfs cost 2029 us
+maxMatch_dfs cost 74797 us
+seed = 711
+maxMatch_bfs cost 1912 us
+maxMatch_dfs cost 88654 us
+seed = 712
+maxMatch_bfs cost 1588 us
+maxMatch_dfs cost 61959 us
+seed = 713
+maxMatch_bfs cost 2289 us
+maxMatch_dfs cost 51038 us
+seed = 714
+maxMatch_bfs cost 1500 us
+maxMatch_dfs cost 46000 us
+seed = 715
+maxMatch_bfs cost 1592 us
+maxMatch_dfs cost 52448 us
+seed = 716
+maxMatch_bfs cost 1297 us
+maxMatch_dfs cost 49933 us
+seed = 717
+maxMatch_bfs cost 2465 us
+maxMatch_dfs cost 67614 us
+seed = 718
+maxMatch_bfs cost 2193 us
+maxMatch_dfs cost 94421 us
+seed = 719
+maxMatch_bfs cost 2630 us
+maxMatch_dfs cost 64154 us
+seed = 720
+maxMatch_bfs cost 1848 us
+maxMatch_dfs cost 50704 us
+seed = 721
+maxMatch_bfs cost 2071 us
+maxMatch_dfs cost 79903 us
+seed = 722
+maxMatch_bfs cost 1620 us
+maxMatch_dfs cost 83335 us
+seed = 723
+maxMatch_bfs cost 2545 us
+maxMatch_dfs cost 82996 us
+seed = 724
+maxMatch_bfs cost 1332 us
+maxMatch_dfs cost 42258 us
+seed = 725
+maxMatch_bfs cost 1405 us
+maxMatch_dfs cost 139443 us
+seed = 726
+maxMatch_bfs cost 1392 us
+maxMatch_dfs cost 40615 us
+seed = 727
+maxMatch_bfs cost 1956 us
+maxMatch_dfs cost 45088 us
+seed = 728
+maxMatch_bfs cost 1308 us
+maxMatch_dfs cost 82702 us
+seed = 729
+maxMatch_bfs cost 1267 us
+maxMatch_dfs cost 45113 us
+seed = 730
+maxMatch_bfs cost 2019 us
+maxMatch_dfs cost 63166 us
+seed = 731
+maxMatch_bfs cost 1287 us
+maxMatch_dfs cost 43018 us
+seed = 732
+maxMatch_bfs cost 1519 us
+maxMatch_dfs cost 43277 us
+seed = 733
+maxMatch_bfs cost 1372 us
+maxMatch_dfs cost 34843 us
+seed = 734
+maxMatch_bfs cost 1327 us
+maxMatch_dfs cost 67178 us
+seed = 735
+maxMatch_bfs cost 1229 us
+maxMatch_dfs cost 39992 us
+seed = 736
+maxMatch_bfs cost 1220 us
+maxMatch_dfs cost 51761 us
+seed = 737
+maxMatch_bfs cost 1303 us
+maxMatch_dfs cost 57079 us
+seed = 738
+maxMatch_bfs cost 1108 us
+maxMatch_dfs cost 33102 us
+seed = 739
+maxMatch_bfs cost 1701 us
+maxMatch_dfs cost 36202 us
+seed = 740
+maxMatch_bfs cost 1204 us
+maxMatch_dfs cost 99001 us
+seed = 741
+maxMatch_bfs cost 1780 us
+maxMatch_dfs cost 284136 us
+seed = 742
+maxMatch_bfs cost 1055 us
+maxMatch_dfs cost 55162 us
+seed = 743
+maxMatch_bfs cost 1273 us
+maxMatch_dfs cost 55649 us
+seed = 744
+maxMatch_bfs cost 2721 us
+maxMatch_dfs cost 190304 us
+seed = 745
+maxMatch_bfs cost 1356 us
+maxMatch_dfs cost 58690 us
+seed = 746
+maxMatch_bfs cost 1809 us
+maxMatch_dfs cost 114373 us
+seed = 747
+maxMatch_bfs cost 1610 us
+maxMatch_dfs cost 114955 us
+seed = 748
+maxMatch_bfs cost 1180 us
+maxMatch_dfs cost 43504 us
+seed = 749
+maxMatch_bfs cost 1394 us
+maxMatch_dfs cost 63166 us
+seed = 750
+maxMatch_bfs cost 1599 us
+maxMatch_dfs cost 181763 us
+seed = 751
+maxMatch_bfs cost 1746 us
+maxMatch_dfs cost 71696 us
+seed = 752
+maxMatch_bfs cost 1467 us
+maxMatch_dfs cost 56709 us
+seed = 753
+maxMatch_bfs cost 1051 us
+maxMatch_dfs cost 44207 us
+seed = 754
+maxMatch_bfs cost 1495 us
+maxMatch_dfs cost 81911 us
+seed = 755
+maxMatch_bfs cost 1908 us
+maxMatch_dfs cost 74565 us
+seed = 756
+maxMatch_bfs cost 1398 us
+maxMatch_dfs cost 88485 us
+seed = 757
+maxMatch_bfs cost 1380 us
+maxMatch_dfs cost 47761 us
+seed = 758
+maxMatch_bfs cost 1606 us
+maxMatch_dfs cost 55447 us
+seed = 759
+maxMatch_bfs cost 1403 us
+maxMatch_dfs cost 48186 us
+seed = 760
+maxMatch_bfs cost 2366 us
+maxMatch_dfs cost 58054 us
+seed = 761
+maxMatch_bfs cost 1450 us
+maxMatch_dfs cost 58462 us
+seed = 762
+maxMatch_bfs cost 1311 us
+maxMatch_dfs cost 81940 us
+seed = 763
+maxMatch_bfs cost 1455 us
+maxMatch_dfs cost 189939 us
+seed = 764
+maxMatch_bfs cost 1906 us
+maxMatch_dfs cost 98207 us
+seed = 765
+maxMatch_bfs cost 1428 us
+maxMatch_dfs cost 51045 us
+seed = 766
+maxMatch_bfs cost 1390 us
+maxMatch_dfs cost 55644 us
+seed = 767
+maxMatch_bfs cost 2146 us
+maxMatch_dfs cost 49114 us
+seed = 768
+maxMatch_bfs cost 1456 us
+maxMatch_dfs cost 82236 us
+seed = 769
+maxMatch_bfs cost 2826 us
+maxMatch_dfs cost 71237 us
+seed = 770
+maxMatch_bfs cost 1399 us
+maxMatch_dfs cost 42270 us
+seed = 771
+maxMatch_bfs cost 2847 us
+maxMatch_dfs cost 84792 us
+seed = 772
+maxMatch_bfs cost 1407 us
+maxMatch_dfs cost 51399 us
+seed = 773
+maxMatch_bfs cost 1383 us
+maxMatch_dfs cost 86542 us
+seed = 774
+maxMatch_bfs cost 1709 us
+maxMatch_dfs cost 88347 us
+seed = 775
+maxMatch_bfs cost 2029 us
+maxMatch_dfs cost 52928 us
+seed = 776
+maxMatch_bfs cost 1805 us
+maxMatch_dfs cost 162076 us
+seed = 777
+maxMatch_bfs cost 1546 us
+maxMatch_dfs cost 156108 us
+seed = 778
+maxMatch_bfs cost 1473 us
+maxMatch_dfs cost 65266 us
+seed = 779
+maxMatch_bfs cost 2272 us
+maxMatch_dfs cost 152023 us
+seed = 780
+maxMatch_bfs cost 2168 us
+maxMatch_dfs cost 71991 us
+seed = 781
+maxMatch_bfs cost 1345 us
+maxMatch_dfs cost 87032 us
+seed = 782
+maxMatch_bfs cost 1292 us
+maxMatch_dfs cost 41960 us
+seed = 783
+maxMatch_bfs cost 2014 us
+maxMatch_dfs cost 60168 us
+seed = 784
+maxMatch_bfs cost 1194 us
+maxMatch_dfs cost 39303 us
+seed = 785
+maxMatch_bfs cost 1070 us
+maxMatch_dfs cost 236823 us
+seed = 786
+maxMatch_bfs cost 1396 us
+maxMatch_dfs cost 56719 us
+seed = 787
+maxMatch_bfs cost 2024 us
+maxMatch_dfs cost 49731 us
+seed = 788
+maxMatch_bfs cost 1484 us
+maxMatch_dfs cost 58158 us
+seed = 789
+maxMatch_bfs cost 1624 us
+maxMatch_dfs cost 82848 us
+seed = 790
+maxMatch_bfs cost 1432 us
+maxMatch_dfs cost 1152805 us
+seed = 791
+maxMatch_bfs cost 2827 us
+maxMatch_dfs cost 1732781 us
+seed = 792
+maxMatch_bfs cost 1426 us
+maxMatch_dfs cost 52215 us
+seed = 793
+maxMatch_bfs cost 1096 us
+maxMatch_dfs cost 43765 us
+seed = 794
+maxMatch_bfs cost 2176 us
+maxMatch_dfs cost 58878 us
+seed = 795
+maxMatch_bfs cost 1694 us
+maxMatch_dfs cost 41601 us
+seed = 796
+maxMatch_bfs cost 1908 us
+maxMatch_dfs cost 45929 us
+seed = 797
+maxMatch_bfs cost 1535 us
+maxMatch_dfs cost 69843 us
+seed = 798
+maxMatch_bfs cost 1474 us
+maxMatch_dfs cost 51640 us
+seed = 799
+maxMatch_bfs cost 1399 us
+maxMatch_dfs cost 48485 us
+seed = 800
+maxMatch_bfs cost 1278 us
+maxMatch_dfs cost 45517 us
+seed = 801
+maxMatch_bfs cost 1143 us
+maxMatch_dfs cost 114333 us
+seed = 802
+maxMatch_bfs cost 1290 us
+maxMatch_dfs cost 55158 us
+seed = 803
+maxMatch_bfs cost 1400 us
+maxMatch_dfs cost 52756 us
+seed = 804
+maxMatch_bfs cost 1552 us
+maxMatch_dfs cost 129034 us
+seed = 805
+maxMatch_bfs cost 1439 us
+maxMatch_dfs cost 57356 us
+seed = 806
+maxMatch_bfs cost 1378 us
+maxMatch_dfs cost 44047 us
+seed = 807
+maxMatch_bfs cost 1674 us
+maxMatch_dfs cost 87050 us
+seed = 808
+maxMatch_bfs cost 2491 us
+maxMatch_dfs cost 53617 us
+seed = 809
+maxMatch_bfs cost 1107 us
+maxMatch_dfs cost 56389 us
+seed = 810
+maxMatch_bfs cost 1369 us
+maxMatch_dfs cost 73768 us
+seed = 811
+maxMatch_bfs cost 1590 us
+maxMatch_dfs cost 62440 us
+seed = 812
+maxMatch_bfs cost 1903 us
+maxMatch_dfs cost 43681 us
+seed = 813
+maxMatch_bfs cost 1680 us
+maxMatch_dfs cost 61764 us
+seed = 814
+maxMatch_bfs cost 1305 us
+maxMatch_dfs cost 47727 us
+seed = 815
+maxMatch_bfs cost 2699 us
+maxMatch_dfs cost 67499 us
+seed = 816
+maxMatch_bfs cost 1825 us
+maxMatch_dfs cost 46885 us
+seed = 817
+maxMatch_bfs cost 1128 us
+maxMatch_dfs cost 47205 us
+seed = 818
+maxMatch_bfs cost 1397 us
+maxMatch_dfs cost 55404 us
+seed = 819
+maxMatch_bfs cost 1462 us
+maxMatch_dfs cost 96870 us
+seed = 820
+maxMatch_bfs cost 1408 us
+maxMatch_dfs cost 49039 us
+seed = 821
+maxMatch_bfs cost 1195 us
+maxMatch_dfs cost 53213 us
+seed = 822
+maxMatch_bfs cost 1372 us
+maxMatch_dfs cost 77783 us
+seed = 823
+maxMatch_bfs cost 1306 us
+maxMatch_dfs cost 596154 us
+seed = 824
+maxMatch_bfs cost 1267 us
+maxMatch_dfs cost 71844 us
+seed = 825
+maxMatch_bfs cost 1272 us
+maxMatch_dfs cost 39368 us
+seed = 826
+maxMatch_bfs cost 1322 us
+maxMatch_dfs cost 204753 us
+seed = 827
+maxMatch_bfs cost 1450 us
+maxMatch_dfs cost 43728 us
+seed = 828
+maxMatch_bfs cost 1178 us
+maxMatch_dfs cost 44537 us
+seed = 829
+maxMatch_bfs cost 1284 us
+maxMatch_dfs cost 57884 us
+seed = 830
+maxMatch_bfs cost 1389 us
+maxMatch_dfs cost 42688 us
+seed = 831
+maxMatch_bfs cost 2485 us
+maxMatch_dfs cost 97278 us
+seed = 832
+maxMatch_bfs cost 1270 us
+maxMatch_dfs cost 64432 us
+seed = 833
+maxMatch_bfs cost 1854 us
+maxMatch_dfs cost 49322 us
+seed = 834
+maxMatch_bfs cost 1350 us
+maxMatch_dfs cost 56834 us
+seed = 835
+maxMatch_bfs cost 1583 us
+maxMatch_dfs cost 66281 us
+seed = 836
+maxMatch_bfs cost 1411 us
+maxMatch_dfs cost 45135 us
+seed = 837
+maxMatch_bfs cost 2743 us
+maxMatch_dfs cost 75825 us
+seed = 838
+maxMatch_bfs cost 1468 us
+maxMatch_dfs cost 75779 us
+seed = 839
+maxMatch_bfs cost 1291 us
+maxMatch_dfs cost 42022 us
+seed = 840
+maxMatch_bfs cost 2785 us
+maxMatch_dfs cost 51180 us
+seed = 841
+maxMatch_bfs cost 1442 us
+maxMatch_dfs cost 123318 us
+seed = 842
+maxMatch_bfs cost 1926 us
+maxMatch_dfs cost 74072 us
+seed = 843
+maxMatch_bfs cost 2202 us
+maxMatch_dfs cost 116141 us
+seed = 844
+maxMatch_bfs cost 1709 us
+maxMatch_dfs cost 60776 us
+seed = 845
+maxMatch_bfs cost 2313 us
+maxMatch_dfs cost 65833 us
+seed = 846
+maxMatch_bfs cost 2609 us
+maxMatch_dfs cost 87161 us
+seed = 847
+maxMatch_bfs cost 2042 us
+maxMatch_dfs cost 68034 us
+seed = 848
+maxMatch_bfs cost 1940 us
+maxMatch_dfs cost 71880 us
+seed = 849
+maxMatch_bfs cost 2737 us
+maxMatch_dfs cost 81795 us
+seed = 850
+maxMatch_bfs cost 1834 us
+maxMatch_dfs cost 114524 us
+seed = 851
+maxMatch_bfs cost 5218 us
+maxMatch_dfs cost 79541 us
+seed = 852
+maxMatch_bfs cost 2800 us
+maxMatch_dfs cost 350537 us
+seed = 853
+maxMatch_bfs cost 3164 us
+maxMatch_dfs cost 153201 us
+seed = 854
+maxMatch_bfs cost 1617 us
+maxMatch_dfs cost 63782 us
+seed = 855
+maxMatch_bfs cost 1511 us
+maxMatch_dfs cost 55359 us
+seed = 856
+maxMatch_bfs cost 1343 us
+maxMatch_dfs cost 68208 us
+seed = 857
+maxMatch_bfs cost 1325 us
+maxMatch_dfs cost 44212 us
+seed = 858
+maxMatch_bfs cost 1759 us
+maxMatch_dfs cost 142787 us
+seed = 859
+maxMatch_bfs cost 1711 us
+maxMatch_dfs cost 62624 us
+seed = 860
+maxMatch_bfs cost 2125 us
+maxMatch_dfs cost 60844 us
+seed = 861
+maxMatch_bfs cost 1720 us
+maxMatch_dfs cost 216438 us
+seed = 862
+maxMatch_bfs cost 1346 us
+maxMatch_dfs cost 43023 us
+seed = 863
+maxMatch_bfs cost 2317 us
+maxMatch_dfs cost 97393 us
+seed = 864
+maxMatch_bfs cost 1561 us
+maxMatch_dfs cost 49075 us
+seed = 865
+maxMatch_bfs cost 1694 us
+maxMatch_dfs cost 62143 us
+seed = 866
+maxMatch_bfs cost 1244 us
+maxMatch_dfs cost 122865 us
+seed = 867
+maxMatch_bfs cost 1226 us
+maxMatch_dfs cost 68312 us
+seed = 868
+maxMatch_bfs cost 1297 us
+maxMatch_dfs cost 58651 us
+seed = 869
+maxMatch_bfs cost 1149 us
+maxMatch_dfs cost 104556 us
+seed = 870
+maxMatch_bfs cost 2046 us
+maxMatch_dfs cost 187183 us
+seed = 871
+maxMatch_bfs cost 1741 us
+maxMatch_dfs cost 85924 us
+seed = 872
+maxMatch_bfs cost 1303 us
+maxMatch_dfs cost 38273 us
+seed = 873
+maxMatch_bfs cost 1289 us
+maxMatch_dfs cost 38884 us
+seed = 874
+maxMatch_bfs cost 2866 us
+maxMatch_dfs cost 140459 us
+seed = 875
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 42885 us
+seed = 876
+maxMatch_bfs cost 1300 us
+maxMatch_dfs cost 43064 us
+seed = 877
+maxMatch_bfs cost 1135 us
+maxMatch_dfs cost 36568 us
+seed = 878
+maxMatch_bfs cost 1656 us
+maxMatch_dfs cost 41809 us
+seed = 879
+maxMatch_bfs cost 1191 us
+maxMatch_dfs cost 41924 us
+seed = 880
+maxMatch_bfs cost 1498 us
+maxMatch_dfs cost 52367 us
+seed = 881
+maxMatch_bfs cost 1866 us
+maxMatch_dfs cost 42363 us
+seed = 882
+maxMatch_bfs cost 1259 us
+maxMatch_dfs cost 37950 us
+seed = 883
+maxMatch_bfs cost 1080 us
+maxMatch_dfs cost 33860 us
+seed = 884
+maxMatch_bfs cost 1062 us
+maxMatch_dfs cost 40950 us
+seed = 885
+maxMatch_bfs cost 1159 us
+maxMatch_dfs cost 42941 us
+seed = 886
+maxMatch_bfs cost 1058 us
+maxMatch_dfs cost 44786 us
+seed = 887
+maxMatch_bfs cost 1634 us
+maxMatch_dfs cost 36250 us
+seed = 888
+maxMatch_bfs cost 1101 us
+maxMatch_dfs cost 257384 us
+seed = 889
+maxMatch_bfs cost 1120 us
+maxMatch_dfs cost 41007 us
+seed = 890
+maxMatch_bfs cost 1279 us
+maxMatch_dfs cost 41063 us
+seed = 891
+maxMatch_bfs cost 1207 us
+maxMatch_dfs cost 38589 us
+seed = 892
+maxMatch_bfs cost 1347 us
+maxMatch_dfs cost 38322 us
+seed = 893
+maxMatch_bfs cost 1262 us
+maxMatch_dfs cost 47409 us
+seed = 894
+maxMatch_bfs cost 1339 us
+maxMatch_dfs cost 54452 us
+seed = 895
+maxMatch_bfs cost 1162 us
+maxMatch_dfs cost 47265 us
+seed = 896
+maxMatch_bfs cost 1217 us
+maxMatch_dfs cost 94010 us
+seed = 897
+maxMatch_bfs cost 1164 us
+maxMatch_dfs cost 761352 us
+seed = 898
+maxMatch_bfs cost 1228 us
+maxMatch_dfs cost 48191 us
+seed = 899
+maxMatch_bfs cost 1190 us
+maxMatch_dfs cost 56069 us
+seed = 900
+maxMatch_bfs cost 1097 us
+maxMatch_dfs cost 55564 us
+seed = 901
+maxMatch_bfs cost 1142 us
+maxMatch_dfs cost 53453 us
+seed = 902
+maxMatch_bfs cost 1130 us
+maxMatch_dfs cost 36562 us
+seed = 903
+maxMatch_bfs cost 1403 us
+maxMatch_dfs cost 57531 us
+seed = 904
+maxMatch_bfs cost 1862 us
+maxMatch_dfs cost 32982 us
+seed = 905
+maxMatch_bfs cost 1727 us
+maxMatch_dfs cost 312541 us
+seed = 906
+maxMatch_bfs cost 2024 us
+maxMatch_dfs cost 43896 us
+seed = 907
+maxMatch_bfs cost 1175 us
+maxMatch_dfs cost 53459 us
+seed = 908
+maxMatch_bfs cost 1576 us
+maxMatch_dfs cost 74573 us
+seed = 909
+maxMatch_bfs cost 1261 us
+maxMatch_dfs cost 45118 us
+seed = 910
+maxMatch_bfs cost 1285 us
+maxMatch_dfs cost 46610 us
+seed = 911
+maxMatch_bfs cost 1244 us
+maxMatch_dfs cost 41873 us
+seed = 912
+maxMatch_bfs cost 1594 us
+maxMatch_dfs cost 172403 us
+seed = 913
+maxMatch_bfs cost 1688 us
+maxMatch_dfs cost 96822 us
+seed = 914
+maxMatch_bfs cost 2136 us
+maxMatch_dfs cost 77859 us
+seed = 915
+maxMatch_bfs cost 2495 us
+maxMatch_dfs cost 99928 us
+seed = 916
+maxMatch_bfs cost 1286 us
+maxMatch_dfs cost 36095 us
+seed = 917
+maxMatch_bfs cost 1423 us
+maxMatch_dfs cost 42802 us
+seed = 918
+maxMatch_bfs cost 2464 us
+maxMatch_dfs cost 99959 us
+seed = 919
+maxMatch_bfs cost 1218 us
+maxMatch_dfs cost 36927 us
+seed = 920
+maxMatch_bfs cost 1370 us
+maxMatch_dfs cost 43481 us
+seed = 921
+maxMatch_bfs cost 1191 us
+maxMatch_dfs cost 38935 us
+seed = 922
+maxMatch_bfs cost 1365 us
+maxMatch_dfs cost 47329 us
+seed = 923
+maxMatch_bfs cost 1550 us
+maxMatch_dfs cost 87321 us
+seed = 924
+maxMatch_bfs cost 2493 us
+maxMatch_dfs cost 61958 us
+seed = 925
+maxMatch_bfs cost 1458 us
+maxMatch_dfs cost 93760 us
+seed = 926
+maxMatch_bfs cost 1322 us
+maxMatch_dfs cost 51681 us
+seed = 927
+maxMatch_bfs cost 1336 us
+maxMatch_dfs cost 172013 us
+seed = 928
+maxMatch_bfs cost 1174 us
+maxMatch_dfs cost 66076 us
+seed = 929
+maxMatch_bfs cost 1219 us
+maxMatch_dfs cost 39778 us
+seed = 930
+maxMatch_bfs cost 1041 us
+maxMatch_dfs cost 41043 us
+seed = 931
+maxMatch_bfs cost 1351 us
+maxMatch_dfs cost 48960 us
+seed = 932
+maxMatch_bfs cost 1243 us
+maxMatch_dfs cost 54131 us
+seed = 933
+maxMatch_bfs cost 1474 us
+maxMatch_dfs cost 83570 us
+seed = 934
+maxMatch_bfs cost 1697 us
+maxMatch_dfs cost 45655 us
+seed = 935
+maxMatch_bfs cost 1337 us
+maxMatch_dfs cost 94607 us
+seed = 936
+maxMatch_bfs cost 1445 us
+maxMatch_dfs cost 47558 us
+seed = 937
+maxMatch_bfs cost 1029 us
+maxMatch_dfs cost 36156 us
+seed = 938
+maxMatch_bfs cost 1251 us
+maxMatch_dfs cost 49323 us
+seed = 939
+maxMatch_bfs cost 1174 us
+maxMatch_dfs cost 37903 us
+seed = 940
+maxMatch_bfs cost 1558 us
+maxMatch_dfs cost 51801 us
+seed = 941
+maxMatch_bfs cost 1738 us
+maxMatch_dfs cost 57369 us
+seed = 942
+maxMatch_bfs cost 1217 us
+maxMatch_dfs cost 49732 us
+seed = 943
+maxMatch_bfs cost 1293 us
+maxMatch_dfs cost 58773 us
+seed = 944
+maxMatch_bfs cost 1421 us
+maxMatch_dfs cost 63086 us
+seed = 945
+maxMatch_bfs cost 1505 us
+maxMatch_dfs cost 90601 us
+seed = 946
+maxMatch_bfs cost 1091 us
+maxMatch_dfs cost 34050 us
+seed = 947
+maxMatch_bfs cost 1528 us
+maxMatch_dfs cost 202300 us
+seed = 948
+maxMatch_bfs cost 1243 us
+maxMatch_dfs cost 47635 us
+seed = 949
+maxMatch_bfs cost 1171 us
+maxMatch_dfs cost 51906 us
+seed = 950
+maxMatch_bfs cost 1301 us
+maxMatch_dfs cost 59816 us
+seed = 951
+maxMatch_bfs cost 1303 us
+maxMatch_dfs cost 38078 us
+seed = 952
+maxMatch_bfs cost 1319 us
+maxMatch_dfs cost 81115 us
+seed = 953
+maxMatch_bfs cost 1189 us
+maxMatch_dfs cost 42409 us
+seed = 954
+maxMatch_bfs cost 1179 us
+maxMatch_dfs cost 73341 us
+seed = 955
+maxMatch_bfs cost 1070 us
+maxMatch_dfs cost 145692 us
+seed = 956
+maxMatch_bfs cost 1141 us
+maxMatch_dfs cost 37279 us
+seed = 957
+maxMatch_bfs cost 1325 us
+maxMatch_dfs cost 418892 us
+seed = 958
+maxMatch_bfs cost 1238 us
+maxMatch_dfs cost 158926 us
+seed = 959
+maxMatch_bfs cost 2357 us
+maxMatch_dfs cost 44424 us
+seed = 960
+maxMatch_bfs cost 1422 us
+maxMatch_dfs cost 186750 us
+seed = 961
+maxMatch_bfs cost 1323 us
+maxMatch_dfs cost 61819 us
+seed = 962
+maxMatch_bfs cost 1440 us
+maxMatch_dfs cost 45047 us
+seed = 963
+maxMatch_bfs cost 992 us
+maxMatch_dfs cost 36189 us
+seed = 964
+maxMatch_bfs cost 1118 us
+maxMatch_dfs cost 37996 us
+seed = 965
+maxMatch_bfs cost 1374 us
+maxMatch_dfs cost 65219 us
+seed = 966
+maxMatch_bfs cost 1146 us
+maxMatch_dfs cost 42195 us
+seed = 967
+maxMatch_bfs cost 1151 us
+maxMatch_dfs cost 72598 us
+seed = 968
+maxMatch_bfs cost 1311 us
+maxMatch_dfs cost 140777 us
+seed = 969
+maxMatch_bfs cost 1519 us
+maxMatch_dfs cost 47492 us
+seed = 970
+maxMatch_bfs cost 1011 us
+maxMatch_dfs cost 47305 us
+seed = 971
+maxMatch_bfs cost 1207 us
+maxMatch_dfs cost 103842 us
+seed = 972
+maxMatch_bfs cost 1307 us
+maxMatch_dfs cost 50569 us
+seed = 973
+maxMatch_bfs cost 1308 us
+maxMatch_dfs cost 44783 us
+seed = 974
+maxMatch_bfs cost 1611 us
+maxMatch_dfs cost 49136 us
+seed = 975
+maxMatch_bfs cost 2636 us
+maxMatch_dfs cost 50865 us
+seed = 976
+maxMatch_bfs cost 1422 us
+maxMatch_dfs cost 74812 us
+seed = 977
+maxMatch_bfs cost 2142 us
+maxMatch_dfs cost 96830 us
+seed = 978
+maxMatch_bfs cost 1318 us
+maxMatch_dfs cost 40923 us
+seed = 979
+maxMatch_bfs cost 1640 us
+maxMatch_dfs cost 72808 us
+seed = 980
+maxMatch_bfs cost 1426 us
+maxMatch_dfs cost 33729 us
+seed = 981
+maxMatch_bfs cost 1885 us
+maxMatch_dfs cost 43511 us
+seed = 982
+maxMatch_bfs cost 1154 us
+maxMatch_dfs cost 39604 us
+seed = 983
+maxMatch_bfs cost 1143 us
+maxMatch_dfs cost 37895 us
+seed = 984
+maxMatch_bfs cost 2110 us
+maxMatch_dfs cost 94223 us
+seed = 985
+maxMatch_bfs cost 1212 us
+maxMatch_dfs cost 40252 us
+seed = 986
+maxMatch_bfs cost 1529 us
+maxMatch_dfs cost 44027 us
+seed = 987
+maxMatch_bfs cost 1327 us
+maxMatch_dfs cost 202028 us
+seed = 988
+maxMatch_bfs cost 1143 us
+maxMatch_dfs cost 35607 us
+seed = 989
+maxMatch_bfs cost 1140 us
+maxMatch_dfs cost 54064 us
+seed = 990
+maxMatch_bfs cost 1499 us
+maxMatch_dfs cost 47045 us
+seed = 991
+maxMatch_bfs cost 1018 us
+maxMatch_dfs cost 100929 us
+seed = 992
+maxMatch_bfs cost 1209 us
+maxMatch_dfs cost 59281 us
+seed = 993
+maxMatch_bfs cost 1428 us
+maxMatch_dfs cost 49710 us
+seed = 994
+maxMatch_bfs cost 1012 us
+maxMatch_dfs cost 36354 us
+seed = 995
+maxMatch_bfs cost 1158 us
+maxMatch_dfs cost 35444 us
+seed = 996
+maxMatch_bfs cost 1113 us
+maxMatch_dfs cost 39390 us
+seed = 997
+maxMatch_bfs cost 1477 us
+maxMatch_dfs cost 42635 us
+seed = 998
+maxMatch_bfs cost 1126 us
+maxMatch_dfs cost 51539 us
+seed = 999
+maxMatch_bfs cost 1128 us
+maxMatch_dfs cost 34632 us

@@ -1,0 +1,69 @@
+Load log from ../logs/20201104-part2_ssd_v5.1.1_640x360_Data20210420-retrain5b-160k_1.txt.
+Load pics from ../pics/20201104-part2.
+Load log from ../logs/20201104-part2_yolo_608x608.txt.
+Load pics from ../pics/20201104-part2.
+Read xml files from ../GT/20201104-part2
+ VERTEX LIST:  None
+
+======== SSD vs. YoloV4 ========
+
+ Create Table 
+ Count AI in GT: 158
+
+
+ Precision: 0.9523809523809523
+ Recall: 0.546448087431694
+ TP: 100
+ TP_table: [25, 30, 45, 0]
+ AITABLE: [26, 30, 47, 2]
+ GTTABLE: [30, 44, 84, 0]
+ sum_AI: 105
+ sum_GT: 183
+
+RESULTS:
+                  Precision     Recall
+Bike        ->    0.96    	0.83
+Vehicle     ->    1.00    	0.68
+Person      ->    0.96    	0.54
+
+======== SSD vs. GT ========
+
+ Create Table 
+ Count AI in GT: 158
+
+
+ Precision: 0.9523809523809523
+ Recall: 0.6329113924050633
+ TP: 100
+ TP_table: [25, 30, 45, 0]
+ AITABLE: [26, 30, 47, 2]
+ GTTABLE: [30, 44, 84, 0]
+ sum_AI: 105
+ sum_GT: 158
+
+RESULTS:
+                  Precision     Recall
+Bike        ->    0.96    	0.83
+Vehicle     ->    1.00    	0.68
+Person      ->    0.96    	0.54
+
+======== YoloV4 vs. GT ========
+
+ Create Table 
+ Count AI in GT: 4485
+
+
+ Precision: 0.938088266053127
+ Recall: 1.0
+ TP: 4485
+ TP_table: [479, 1382, 2623, 1]
+ AITABLE: [479, 1382, 2623, 1]
+ GTTABLE: [479, 1382, 2623, 1]
+ sum_AI: 4781
+ sum_GT: 4485
+
+RESULTS:
+                  Precision     Recall
+Bike        ->    1.00    	1.00
+Vehicle     ->    1.00    	1.00
+Person      ->    1.00    	1.00

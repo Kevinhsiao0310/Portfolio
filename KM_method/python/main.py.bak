@@ -1,0 +1,18 @@
+import numpy as np
+from numpy import random
+
+from classdfs import Assignment
+from hungary import TaskAssignment
+
+
+for i in range(2, 128):
+    for j in range(1000000):
+        rd = random.RandomState(j)
+        task_matrix = rd.randint(0, 100, size=(i, i)) 
+        ass_by_Hun = TaskAssignment(task_matrix, 'Hungary')
+        a_KP = Assignment(i, i, task_matrix, random=0)
+        a_KP.KuhnMunkres()
+
+        if ass_by_Hun.min_cost != a_KP.min_cost :
+            print("ERROR")
+        print ("len:", i, "seed:", j, "pylib:", ass_by_Hun.min_cost, "KP:",  a_KP.min_cost)

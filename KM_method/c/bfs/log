@@ -1,0 +1,58 @@
+task->g[0][0]=37.000000
+task->g[0][1]=12.000000
+task->g[0][2]=26.000000
+task->g[1][0]=9.000000
+task->g[1][1]=75.000000
+task->g[1][2]=5.000000
+task->g[2][0]=79.000000
+task->g[2][1]=64.000000
+task->g[2][2]=16.000000
+startX:0
+a
+b
+queue: qs = 1, qe = 1
+startX:1
+a
+b
+queue: qs = 1, qe = 1
+xl[1] = 75, yl->[0] = 0, g[x][y] = 9.000000, delta_l = 66
+startX:2
+a
+b
+queue: qs = 1, qe = 1
+xl[2] = 79, yl->[1] = 0, g[x][y] = 64.000000, delta_l = 15
+xl[2] = 79, yl->[2] = 0, g[x][y] = 16.000000, delta_l = 15
+label changed, delta_l = 15
+a
+b
+queue: qs = 1, qe = 3
+xl[0] = 22, yl->[0] = 15, g[x][y] = 37.000000, delta_l = 2147483647
+xl[0] = 22, yl->[1] = 15, g[x][y] = 12.000000, delta_l = 25
+xl[0] = 22, yl->[2] = 0, g[x][y] = 26.000000, delta_l = -4
+b
+queue: qs = 2, qe = 4
+xl[1] = 60, yl->[0] = 15, g[x][y] = 9.000000, delta_l = -4
+xl[1] = 60, yl->[1] = 15, g[x][y] = 75.000000, delta_l = -4
+xl[1] = 60, yl->[2] = 0, g[x][y] = 5.000000, delta_l = -4
+b
+queue: qs = 3, qe = 5
+xl[2] = 64, yl->[1] = 15, g[x][y] = 64.000000, delta_l = -4
+xl[2] = 64, yl->[2] = 0, g[x][y] = 16.000000, delta_l = -4
+b
+queue: qs = 4, qe = 5
+xl[0] = 22, yl->[1] = 15, g[x][y] = 12.000000, delta_l = -4
+xl[0] = 22, yl->[2] = 0, g[x][y] = 26.000000, delta_l = -4
+b
+queue: qs = 5, qe = 5
+xl[1] = 60, yl->[0] = 15, g[x][y] = 9.000000, delta_l = -4
+xl[1] = 60, yl->[2] = 0, g[x][y] = 5.000000, delta_l = -4
+label changed, delta_l = -4
+a
+b
+queue: qs = 1, qe = 3
+xl[0] = 26, yl->[0] = 11, g[x][y] = 37.000000, delta_l = 2147483647
+xl[0] = 26, yl->[1] = 11, g[x][y] = 12.000000, delta_l = 25
+cx[1] -> 1
+cx[2] -> 2
+cx[3] -> 0
+cost = 112
